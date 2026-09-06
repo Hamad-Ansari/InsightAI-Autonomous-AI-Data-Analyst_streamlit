@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>InsightAI — User Guide</title>
+<style>
+  :root { --blue:#2563eb; --ink:#111827; --muted:#6b7280; --line:#e5e7eb; --bg:#f9fafb; }
+  * { box-sizing:border-box; }
+  body { font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+         color:var(--ink); background:var(--bg); margin:0; line-height:1.6; }
+  .wrap { max-width:960px; margin:0 auto; padding:28px 24px 60px; }
+  header { background:linear-gradient(135deg,#2563eb,#7c3aed); color:#fff; border-radius:14px;
+           padding:32px 30px; margin-bottom:28px; }
+  header h1 { margin:0 0 6px; font-size:1.9rem; }
+  header p { margin:0; opacity:.92; }
+  h1,h2,h3 { color:var(--ink); }
+  h2 { border-bottom:2px solid var(--line); padding-bottom:6px; margin-top:40px; }
+  h3 { margin-top:24px; }
+  pre { background:#0f172a; color:#e2e8f0; padding:14px 16px; border-radius:10px; overflow:auto;
+        font-size:0.9rem; line-height:1.5; }
+  code { background:#eef2ff; color:#1d4ed8; padding:2px 6px; border-radius:6px; font-size:0.9em; }
+  pre code { background:transparent; color:inherit; padding:0; }
+  table { width:100%; border-collapse:collapse; margin:16px 0; font-size:0.9rem; }
+  th { background:#f3f4f6; text-align:left; padding:9px 12px; border-bottom:2px solid var(--line); }
+  td { padding:8px 12px; border-bottom:1px solid var(--line); }
+  .card { background:#fff; border:1px solid var(--line); border-radius:12px; padding:16px 20px; margin:16px 0; }
+  .tip { background:#ecfdf5; border-left:4px solid #10b981; padding:12px 16px; border-radius:0 8px 8px 0; margin:14px 0; }
+  .warn { background:#fffbeb; border-left:4px solid #f59e0b; padding:12px 16px; border-radius:0 8px 8px 0; margin:14px 0; }
+  .note { background:#eff6ff; border-left:4px solid #2563eb; padding:12px 16px; border-radius:0 8px 8px 0; margin:14px 0; }
+  .toc { background:#fff; border:1px solid var(--line); border-radius:12px; padding:20px; }
+  .toc ol { margin:0; padding-left:20px; columns:2; column-gap:32px; }
+  .toc a { color:var(--blue); text-decoration:none; }
+  .toc a:hover { text-decoration:underline; }
+  .badge { display:inline-block; background:#eff6ff; color:#1d4ed8; border-radius:999px;
+           padding:2px 10px; font-size:0.8rem; font-weight:600; }
+  footer { margin-top:48px; color:var(--muted); font-size:0.84rem; text-align:center; }
+  @media (max-width:700px){ .toc ol{ columns:1; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>InsightAI — User Guide</h1>
+  <p>Autonomous AI Data Analyst · Local · Free &amp; Open-Source</p>
+</header>
+
+<div class="toc">
+  <strong>Contents</strong>
+  <ol>
+    <li><a href="#s1">Introduction</a></li>
+    <li><a href="#s2">What InsightAI does</a></li>
+    <li><a href="#s3">System requirements</a></li>
+    <li><a href="#s4">Installing Python</a></li>
+    <li><a href="#s5">Installing Ollama</a></li>
+    <li><a href="#s6">Installing an Ollama model</a></li>
+    <li><a href="#s7">Downloading the project</a></li>
+    <li><a href="#s8">Creating a virtual environment</a></li>
+    <li><a href="#s9">Activating the virtual environment (Windows)</a></li>
+    <li><a href="#s10">Installing requirements</a></li>
+    <li><a href="#s11">Creating .env</a></li>
+    <li><a href="#s12">Starting Ollama</a></li>
+    <li><a href="#s13">Running the Streamlit app</a></li>
+    <li><a href="#s14">Uploading a dataset</a></li>
+    <li><a href="#s15">Understanding the dashboard</a></li>
+    <li><a href="#s16">Data cleaning</a></li>
+    <li><a href="#s17">EDA</a></li>
+    <li><a href="#s18">Composition analysis</a></li>
+    <li><a href="#s19">Distribution analysis</a></li>
+    <li><a href="#s20">Comparison analysis</a></li>
+    <li><a href="#s21">Relationship analysis</a></li>
+    <li><a href="#s22">Sentiment analysis</a></li>
+    <li><a href="#s23">Time-series analysis</a></li>
+    <li><a href="#s24">RAG</a></li>
+    <li><a href="#s25">AI insights</a></li>
+    <li><a href="#s26">Generating reports</a></li>
+    <li><a href="#s27">Downloading results</a></li>
+    <li><a href="#s28">Troubleshooting</a></li>
+    <li><a href="#s29">Common errors</a></li>
+    <li><a href="#s30">Project architecture</a></li>
+    <li><a href="#s31">Privacy &amp; security</a></li>
+    <li><a href="#s32">Limitations</a></li>
+    <li><a href="#s33">Example datasets</a></li>
+    <li><a href="#s34">Best practices</a></li>
+  </ol>
+</div>
+
+<h2 id="s1">1. Introduction</h2>
+<p>InsightAI is a <strong>business-friendly, local AI data analyst</strong>. You upload a tabular file and it automatically
+understands it, cleans it, explores it across four dimensions (composition, distribution, comparison, relationship),
+runs sentiment and time-series analysis when relevant, detects anomalies, and then uses a <strong>local LLM (Ollama)</strong>
+plus a <strong>RAG knowledge base</strong> to explain everything in plain business language.</p>
+<p>It is designed to run on your own laptop, uses free/open-source components, and keeps your data on your machine.</p>
+
+<h2 id="s2">2. What InsightAI does</h2>
+<ul>
+  <li>Detects the dataset structure, column types, missing values, duplicates and outliers.</li>
+  <li>Automatically cleans safe problems (without overwriting your original file).</li>
+  <li>Performs automated EDA and generates interactive charts.</li>
+  <li>Organises findings into <strong>Composition · Distribution · Comparison · Relationship</strong>.</li>
+  <li>Runs sentiment analysis on text, time-series analysis on dates, and anomaly detection.</li>
+  <li>Uses Ollama + RAG to turn numbers into understandable business insights.</li>
+  <li>Builds an executive dashboard and a final report (HTML / PDF / JSON / CSV).</li>
+</ul>
+
+<h2 id="s3">3. System requirements</h2>
+<table>
+  <tr><th>Item</th><th>Requirement</th></tr>
+  <tr><td>OS</td><td>Windows 10/11, macOS, or any Linux</td></tr>
+  <tr><td>Python</td><td>3.9 – 3.12 recommended</td></tr>
+  <tr><td>RAM</td><td>8 GB minimum (16 GB+ for local LLM)</td></tr>
+  <tr><td>Disk</td><td>~5 GB (Ollama model downloads vary)</td></tr>
+  <tr><td>Network</td><td>Internet only to download packages &amp; Ollama models; analysis runs offline</td></tr>
+</table>
+
+<h2 id="s4">4. Installing Python</h2>
+<ol>
+  <li>Go to <a href="https://www.python.org/downloads/">python.org/downloads</a> and download the latest stable installer.</li>
+  <li>On Windows, <strong>tick “Add Python to PATH”</strong>.</li>
+  <li>Run the installer and click <em>Install Now</em>.</li>
+  <li>Verify:</li>
+</ol>
+<pre><code>python --version
+pip --version</code></pre>
+
+<h2 id="s5">5. Installing Ollama</h2>
+<p>Ollama runs models locally. Install from <a href="https://ollama.com">ollama.com</a>.</p>
+<pre><code># After installing, start the server
+ollama serve</code></pre>
+<div class="note">The server default URL is <code>http://localhost:11434</code>.</div>
+
+<h2 id="s6">6. Installing an Ollama model</h2>
+<pre><code>ollama pull llama3.1:8b</code></pre>
+<p>Use a lighter model on limited hardware:</p>
+<pre><code>ollama pull llama3.2:3b</code></pre>
+
+<h2 id="s7">7. Downloading the project</h2>
+<pre><code>git clone https://github.com/your-org/InsightAI.git
+cd InsightAI</code></pre>
+<p>Or download the ZIP from your Git host and extract it.</p>
+
+<h2 id="s8">8. Creating a virtual environment</h2>
+<p>A virtual environment keeps the project’s dependencies isolated from the rest of your machine.</p>
+<pre><code>python -m venv .venv</code></pre>
+
+<h2 id="s9">9. Activating the virtual env (Windows)</h2>
+<pre><code>.venv\Scripts\activate</code></pre>
+<p>On macOS / Linux:</p>
+<pre><code>source .venv/bin/activate</code></pre>
+<p>You should see <code>(.venv)</code> at the start of your prompt.</p>
+
+<h2 id="s10">10. Installing requirements</h2>
+<pre><code>pip install -r requirements.txt</code></pre>
+<p>This installs Streamlit, pandas, scikit-learn, statsmodels, Plotly, reportlab, and others.
+Heavy optional packages (<code>sentence-transformers</code>, <code>chromadb</code>) are used if present and fall back gracefully if not.</p>
+
+<h2 id="s11">11. Creating .env</h2>
+<pre><code>cp .env.example .env</code></pre>
+<p>Then edit <code>.env</code> to your preference. Common keys:</p>
+<table>
+  <tr><th>Key</th><th>Default</th><th>Meaning</th></tr>
+  <tr><td>OLLAMA_BASE_URL</td><td>http://localhost:11434</td><td>Ollama server URL</td></tr>
+  <tr><td>OLLAMA_MODEL</td><td>llama3.1:8b</td><td>Reasoning model</td></tr>
+  <tr><td>EMBEDDING_MODEL</td><td>sentence-transformers/all-MiniLM-L6-v2</td><td>RAG embeddings</td></tr>
+  <tr><td>VECTOR_DB_PATH</td><td>./rag/vectorstore</td><td>Vector store location</td></tr>
+  <tr><td>MAX_UPLOAD_SIZE_MB</td><td>200</td><td>Upload limit</td></tr>
+  <tr><td>LOG_LEVEL</td><td>INFO</td><td>Logging verbosity</td></tr>
+</table>
+
+<h2 id="s12">12. Starting Ollama</h2>
+<pre><code>ollama serve</code></pre>
+<p>Leave this terminal open. InsightAI will detect it on the <em>Settings</em> page.</p>
+
+<h2 id="s13">13. Running the Streamlit app</h2>
+<pre><code>streamlit run app.py</code></pre>
+<p>Your browser opens at <code>http://localhost:8501</code>.</p>
+
+<h2 id="s14">14. Uploading a dataset</h2>
+<ol>
+  <li>Use the <strong>Upload dataset</strong> widget in the sidebar.</li>
+  <li>Choose a CSV, XLSX, XLS, TSV or Parquet file.</li>
+  <li>InsightAI loads, validates and analyses it automatically.</li>
+  <li>You can also click <strong>“Load a sample dataset”</strong> on the Home page to try it immediately.</li>
+</ol>
+
+<h2 id="s15">15. Understanding the dashboard</h2>
+<p>The dashboard shows KPI cards (records, columns, data-quality score, missing values, duplicates, numeric/categorical/date columns)
+and sections for Dataset Health, Business KPIs, Composition, Distribution, Comparison, Relationships, Sentiment, Time Series, Anomalies and AI Insights.</p>
+
+<h2 id="s16">16. Data cleaning</h2>
+<p>The <strong>Data Cleaning</strong> page shows exactly what was changed and why (a cleaning log). Outliers are reported but
+<strong>never deleted</strong> by default; you choose Keep / Remove / Winsorise in Settings &amp; re-run.</p>
+
+<h2 id="s17">17. EDA</h2>
+<p>The <strong>EDA</strong> page shows univariate statistics (numeric, categorical, text) plus an interactive chart builder
+where you pick the X/Y axis, colour, aggregation and chart type; InsightAI recommends the best chart for the data types.</p>
+
+<h2 id="s18">18. Composition analysis</h2>
+<p>Answers “what is this data made of?” with donut, treemap and stacked-bar charts of category/segment/region shares.</p>
+
+<h2 id="s19">19. Distribution analysis</h2>
+<p>Answers “how are values spread?” with histograms, KDE, box and violin plots, plus skewness, kurtosis and percentile stats.</p>
+
+<h2 id="s20">20. Comparison analysis</h2>
+<p>Answers “how do groups differ?” with bar and ranking charts comparing a metric across categories (revenue by region, etc.).</p>
+
+<h2 id="s21">21. Relationship analysis</h2>
+<p>Answers “how are variables connected?” with correlation heatmaps, scatter plots, regression lines and Cramér’s V for categories.</p>
+
+<h2 id="s22">22. Sentiment analysis</h2>
+<p>If your data has text (reviews/comments/feedback), InsightAI scores sentiment using a local lexicon, and shows
+positive/neutral/negative percentages, common terms and themes.</p>
+
+<h2 id="s23">23. Time-series analysis</h2>
+<p>If a date column exists, InsightAI aggregates by day/week/month, shows trend, growth, seasonality and moving averages,
+and can forecast (naive, moving average, Exponential Smoothing, ARIMA). Historical analysis and forecasting are kept separate.</p>
+
+<h2 id="s24">24. RAG</h2>
+<p>The <strong>RAG Knowledge</strong> page exposes the curated methodology knowledge base (EDA, statistics, cleaning,
+visualization, time-series, sentiment, KPIs, industry guidance). RAG retrieves relevant chunks to ground the AI explanations.</p>
+
+<h2 id="s25">25. AI insights</h2>
+<p>The <strong>AI Insights</strong> page returns structured output: Executive Summary, Top 5 Findings, Data Quality, Trends,
+Risks, Opportunities, Recommendations and Further Questions — generated by Ollama (or the deterministic fallback).</p>
+
+<h2 id="s26">26. Generating reports</h2>
+<p>Go to <strong>Final Report</strong> and click <em>Generate HTML report</em>. The report is produced instantly and can be exported as HTML, PDF, JSON and CSV.</p>
+
+<h2 id="s27">27. Downloading results</h2>
+<p>The <strong>Export</strong> page lets you download the <strong>cleaned CSV</strong>, the <strong>HTML/PDF report</strong>,
+the <strong>machine-readable JSON</strong> results and a <strong>summary CSV</strong>.</p>
+
+<h2 id="s28">28. Troubleshooting</h2>
+<div class="tip"><strong>Ollama not detected</strong> — run <code>ollama serve</code>, pull a model, then reload Settings.</div>
+<div class="tip"><strong>Slow analysis on big data</strong> — use the <em>Sampling</em> option in Settings (e.g. 25%).</div>
+<div class="tip"><strong>Report images missing</strong> — install <code>pip install kaleido</code> to embed charts.</div>
+<div class="tip"><strong>Sentiment not shown</strong> — your data needs a text/review/comment column.</div>
+
+<h2 id="s29">29. Common errors</h2>
+<table>
+  <tr><th>Error</th><th>Fix</th></tr>
+  <tr><td>“Unsupported file type”</td><td>Use CSV/XLSX/XLS/TSV/Parquet.</td></tr>
+  <tr><td>“Ollama is not running”</td><td>Start <code>ollama serve</code>.</td></tr>
+  <tr><td>ImportError for pyarrow</td><td><code>pip install pyarrow</code> (Parquet support).</td></tr>
+  <tr><td>Excel .xls error</td><td><code>pip install xlrd</code>.</td></tr>
+  <tr><td>“No categorical/numeric columns”</td><td>That analysis dimension is skipped — expected.</td></tr>
+</table>
+
+<h2 id="s30">30. Project architecture</h2>
+<p>Layered: <code>ingestion</code> → <code>cleaning</code> → <code>analysis</code> → <code>visualization</code> → <code>rag</code> →
+<code>llm</code> → <code>reporting</code>, orchestrated by the <code>agent</code>. See the README structure diagram.</p>
+
+<h2 id="s31">31. Privacy &amp; security</h2>
+<ul>
+  <li>Data is processed <strong>locally</strong>; nothing is sent to external APIs by default.</li>
+  <li>Uploaded files are never executed as code; extensions and sizes are validated.</li>
+  <li>API keys live in <code>.env</code> and are never committed.</li>
+  <li>Dataset statistics go only to a <strong>local</strong> Ollama server.</li>
+</ul>
+
+<h2 id="s32">32. Limitations</h2>
+<ul>
+  <li>LLM quality depends on the model you run locally.</li>
+  <li>Sentiment uses a lightweight lexicon; heavy fine-tuned models may be better for difficult text.</li>
+  <li>Forecasts are estimates, not certainties.</li>
+  <li>Very large datasets benefit from sampling for speed.</li>
+</ul>
+
+<h2 id="s33">33. Example datasets</h2>
+<table>
+  <tr><th>File</th><th>Domain</th><th>Highlights</th></tr>
+  <tr><td>sales.csv</td><td>Sales Analytics</td><td>composition, revenue distribution, time-series, correlation, anomalies</td></tr>
+  <tr><td>ecommerce.csv</td><td>E-commerce</td><td>category mix, price distribution, review sentiment</td></tr>
+  <tr><td>customer_feedback.csv</td><td>Customer Support</td><td>sentiment by topic/region, satisfaction score</td></tr>
+</table>
+
+<h2 id="s34">34. Best practices</h2>
+<ul>
+  <li>Start with a clean, single-table CSV for the most predictable results.</li>
+  <li>Give columns meaningful names — schema detection uses names (e.g. <code>price</code>, <code>customer_id</code>, <code>date</code>).</li>
+  <li>Review the cleaning log; InsightAI never silently modifies anything.</li>
+  <li>Validate AI findings against domain knowledge before acting on them.</li>
+  <li>Use Forecasting only on enough history (months of data).</li>
+</ul>
+
+<footer>InsightAI · Autonomous AI Data Analyst · Generated locally · Your data stays on your machine</footer>
+</div>
+</body>
+</html>
