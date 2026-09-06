@@ -1,0 +1,41 @@
+# =========================================================================
+# InsightAI — Runtime dependencies
+# =========================================================================
+# Core data & analysis
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.3
+statsmodels>=0.14
+
+# Visualization
+plotly>=5.20
+matplotlib>=3.7         # optional; seaborn/plotly used by default
+seaborn>=0.13           # optional
+kaleido>=0.2.1          # optional: render plotly figures to PNG for reports
+
+# Ingestion
+openpyxl>=3.1           # Excel (.xlsx)
+xlrd>=2.0               # Excel (.xls) legacy support
+pyarrow>=14.0           # Parquet
+
+# App
+streamlit>=1.30
+python-dotenv>=1.0
+
+# AI / RAG
+requests>=2.31          # Ollama HTTP client
+sentence-transformers>=2.2   # embeddings (falls back to TF-IDF if absent)
+chromadb>=0.4           # optional vector store (falls back to in-memory cosine)
+
+# LLM / API clients (optional alternative to requests-based Ollama wrapper)
+ollama>=0.3
+
+# Modelling / schemas
+pydantic>=2.5
+
+# NLP (sentiment) — VADER lexicon bundled with NLTK, falls back to built-in lexicon
+nltk>=3.8
+
+# Reporting
+reportlab>=4.0

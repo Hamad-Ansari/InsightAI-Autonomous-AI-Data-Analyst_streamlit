@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+*.env.local
+
+# Data outputs
+data/raw/*
+data/processed/*
+data/exports/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/exports/.gitkeep
+
+# RAG vector store
+rag/vectorstore/
+*.npy
+
+# Streamlit / IDE
+.streamlit/
+.idea/
+.vscode/
+.DS_Store
+
+# Test / caches
+.pytest_cache/
+.coverage
+htmlcov/
+*.log

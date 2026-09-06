@@ -1,0 +1,41 @@
+version: "3.9"
+
+# InsightAI — Streamlit app.
+# Ollama runs on the HOST by default (http://localhost:11434). If you prefer an
+# Ollama *service*, uncomment the `ollama` service below and point
+# OLLAMA_BASE_URL at it. GPU support for the Ollama container is host-dependent.
+services:
+  insightai:
+    build: .
+    container_name: insightai
+    ports:
+      - "8501:8501"
+    environment:
+      OLLAMA_BASE_URL: ${OLLAMA_BASE_URL:-http://host.docker.internal:11434}
+      OLLAMA_MODEL: ${OLLAMA_MODEL:-llama3.1:8b}
+      EMBEDDING_MODEL: ${EMBEDDING_MODEL:-sentence-transformers/all-MiniLM-L6-v2}
+      VECTOR_DB_PATH: ${VECTOR_DB_PATH:-/app/rag/vectorstore}
+      MAX_UPLOAD_SIZE_MB: ${MAX_UPLOAD_SIZE_MB:-200}
+      LOG_LEVEL: ${LOG_LEVEL:-INFO}
+    volumes:
+      - insightai_exports:/app/data/exports
+      - insightai_vectorstore:/app/rag/vectorstore
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped
+
+  # --- Optional: run Ollama as a container service (requires GPU host setup) ---
+  # ollama:
+  #   image: ollama/ollama:latest
+  #   container_name: insightai-ollama
+  #   ports:
+  #     - "11434:11434"
+  #   volumes:
+  #     - ollama_models:/root/.ollama
+  #   restart: unless-stopped
+  #   # After starting, run: docker exec insightai-ollama ollama pull llama3.1:8b
+
+volumes:
+  insightai_exports:
+  insightai_vectorstore:
+  # ollama_models:
