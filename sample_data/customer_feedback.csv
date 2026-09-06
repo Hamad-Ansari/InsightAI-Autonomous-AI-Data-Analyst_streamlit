@@ -1,0 +1,1501 @@
+ticket_id,created_at,topic,channel,region,satisfaction_score,response_text
+TK-00001,2024-06-04,Billing,Chat,NA,2,billing gone wrong
+TK-00002,2024-04-23,Technical,Chat,MEA,2,best experience
+TK-00003,2024-05-06,Billing,Phone,EU,4,excellent service
+TK-00004,2024-01-04,Account,Email,NA,2,resolved fast
+TK-00005,2024-05-19,Account,Chat,MEA,1,very helpful agent
+TK-00006,2024-06-12,Account,Social,MEA,1,okay experience
+TK-00007,2024-04-27,Product,Chat,EU,3,terrible experience
+TK-00008,2024-08-19,Billing,Chat,APAC,2,okay experience
+TK-00009,2024-07-08,Shipping,Email,NA,1,very helpful agent
+TK-00010,2024-02-15,Account,Phone,MEA,4,resolved fast
+TK-00011,2024-07-28,Technical,Email,MEA,3,billing gone wrong
+TK-00012,2024-07-12,Billing,Chat,MEA,4,best experience
+TK-00013,2024-04-29,Account,Phone,EU,3,great communication
+TK-00014,2024-07-20,Product,Email,EU,3,great communication
+TK-00015,2024-07-11,Product,Social,EU,2,billing gone wrong
+TK-00016,2024-03-30,Product,Phone,APAC,5,nothing special
+TK-00017,2024-04-24,Technical,Social,MEA,4,excellent service
+TK-00018,2024-02-07,Billing,Phone,EU,3,okay experience
+TK-00019,2024-06-22,Account,Chat,NA,3,nothing special
+TK-00020,2024-02-12,Shipping,Chat,EU,3,okay experience
+TK-00021,2024-04-30,Billing,Phone,APAC,2,resolved fast
+TK-00022,2024-05-05,Account,Chat,APAC,3,it was fine
+TK-00023,2024-03-05,Product,Chat,EU,3,best experience
+TK-00024,2024-04-28,Account,Phone,MEA,4,okay experience
+TK-00025,2024-05-24,Shipping,Social,EU,3,nothing special
+TK-00026,2024-01-30,Technical,Email,MEA,3,very helpful agent
+TK-00027,2024-07-10,Shipping,Phone,NA,5,okay experience
+TK-00028,2024-03-29,Account,Email,EU,5,best experience
+TK-00029,2024-02-23,Shipping,Chat,EU,3,quick resolution
+TK-00030,2024-03-03,Product,Email,MEA,3,standard support
+TK-00031,2024-05-20,Account,Chat,NA,1,excellent service
+TK-00032,2024-08-16,Product,Social,MEA,1,billing gone wrong
+TK-00033,2024-06-19,Product,Email,MEA,3,best experience
+TK-00034,2024-05-19,Account,Email,APAC,2,standard support
+TK-00035,2024-03-29,Technical,Phone,NA,1,never received my order
+TK-00036,2024-01-31,Account,Email,MEA,3,worst support
+TK-00037,2024-07-06,Shipping,Social,MEA,4,it was fine
+TK-00038,2024-04-22,Account,Chat,NA,2,worst support
+TK-00039,2024-07-02,Billing,Chat,APAC,4,nothing special
+TK-00040,2024-03-16,Product,Social,APAC,2,resolved fast
+TK-00041,2024-02-06,Account,Social,APAC,4,loved the support
+TK-00042,2024-02-07,Product,Chat,APAC,1,unacceptable wait time
+TK-00043,2024-01-29,Shipping,Phone,NA,4,loved the support
+TK-00044,2024-06-19,Technical,Phone,NA,3,it was fine
+TK-00045,2024-06-17,Shipping,Email,APAC,3,quick resolution
+TK-00046,2024-03-22,Technical,Social,NA,2,standard support
+TK-00047,2024-02-29,Shipping,Email,APAC,3,it was fine
+TK-00048,2024-02-11,Billing,Phone,EU,3,okay experience
+TK-00049,2024-05-25,Account,Email,EU,4,billing gone wrong
+TK-00050,2024-07-03,Account,Phone,APAC,1,standard support
+TK-00051,2024-02-02,Product,Phone,NA,4,great communication
+TK-00052,2024-07-25,Shipping,Phone,MEA,2,standard support
+TK-00053,2024-04-03,Shipping,Social,APAC,3,it was fine
+TK-00054,2024-06-25,Account,Chat,NA,2,loved the support
+TK-00055,2024-05-12,Product,Chat,NA,1,loved the support
+TK-00056,2024-08-18,Technical,Phone,NA,4,billing gone wrong
+TK-00057,2024-08-21,Technical,Email,APAC,1,standard support
+TK-00058,2024-04-06,Account,Social,APAC,2,rude agent
+TK-00059,2024-08-16,Billing,Phone,EU,3,quick resolution
+TK-00060,2024-07-08,Shipping,Chat,APAC,2,nothing special
+TK-00061,2024-02-02,Shipping,Social,EU,1,it was fine
+TK-00062,2024-08-05,Shipping,Chat,MEA,3,very helpful agent
+TK-00063,2024-08-19,Shipping,Phone,NA,4,resolved fast
+TK-00064,2024-05-06,Technical,Chat,MEA,3,standard support
+TK-00065,2024-01-24,Technical,Email,NA,3,nothing special
+TK-00066,2024-03-26,Shipping,Email,MEA,2,excellent service
+TK-00067,2024-05-16,Product,Phone,NA,2,best experience
+TK-00068,2024-08-05,Account,Phone,NA,4,okay experience
+TK-00069,2024-01-28,Technical,Chat,EU,2,okay experience
+TK-00070,2024-06-11,Product,Social,NA,4,okay experience
+TK-00071,2024-06-27,Account,Social,APAC,3,it was fine
+TK-00072,2024-06-26,Technical,Social,APAC,4,nothing special
+TK-00073,2024-03-17,Billing,Social,NA,2,great communication
+TK-00074,2024-02-09,Product,Email,NA,2,great communication
+TK-00075,2024-04-30,Product,Social,EU,3,very helpful agent
+TK-00076,2024-01-12,Shipping,Social,NA,4,nothing special
+TK-00077,2024-07-28,Account,Phone,NA,3,quick resolution
+TK-00078,2024-01-13,Product,Phone,MEA,3,very helpful agent
+TK-00079,2024-08-12,Technical,Phone,NA,3,nothing special
+TK-00080,2024-06-20,Product,Phone,NA,3,best experience
+TK-00081,2024-07-04,Technical,Phone,EU,3,best experience
+TK-00082,2024-07-17,Product,Chat,NA,1,quick resolution
+TK-00083,2024-07-10,Technical,Chat,EU,3,very helpful agent
+TK-00084,2024-05-18,Product,Email,APAC,3,okay experience
+TK-00085,2024-03-08,Product,Phone,NA,2,standard support
+TK-00086,2024-02-21,Product,Phone,APAC,1,great communication
+TK-00087,2024-05-14,Account,Social,APAC,4,okay experience
+TK-00088,2024-03-01,Shipping,Chat,NA,2,it was fine
+TK-00089,2024-03-13,Shipping,Social,APAC,2,app keeps crashing
+TK-00090,2024-03-12,Technical,Email,NA,4,okay experience
+TK-00091,2024-02-03,Account,Phone,EU,3,nothing special
+TK-00092,2024-03-10,Product,Phone,NA,5,loved the support
+TK-00093,2024-08-15,Account,Phone,EU,3,excellent service
+TK-00094,2024-08-20,Billing,Email,NA,4,excellent service
+TK-00095,2024-05-10,Product,Social,NA,3,quick resolution
+TK-00096,2024-04-02,Product,Chat,APAC,1,best experience
+TK-00097,2024-03-12,Technical,Social,NA,2,rude agent
+TK-00098,2024-04-26,Account,Chat,APAC,3,it was fine
+TK-00099,2024-04-10,Billing,Email,APAC,1,loved the support
+TK-00100,2024-05-26,Shipping,Social,APAC,3,best experience
+TK-00101,2024-08-06,Shipping,Social,MEA,4,very helpful agent
+TK-00102,2024-06-03,Account,Social,NA,3,unacceptable wait time
+TK-00103,2024-04-04,Billing,Social,NA,3,billing gone wrong
+TK-00104,2024-05-04,Technical,Chat,MEA,2,quick resolution
+TK-00105,2024-07-27,Account,Email,EU,2,it was fine
+TK-00106,2024-02-23,Account,Chat,EU,3,very helpful agent
+TK-00107,2024-06-07,Account,Social,MEA,4,it was fine
+TK-00108,2024-07-25,Shipping,Email,EU,4,terrible experience
+TK-00109,2024-08-03,Technical,Social,MEA,4,worst support
+TK-00110,2024-02-09,Account,Email,MEA,2,terrible experience
+TK-00111,2024-05-30,Billing,Phone,APAC,4,great communication
+TK-00112,2024-06-28,Account,Social,NA,4,excellent service
+TK-00113,2024-07-22,Billing,Phone,EU,2,nothing special
+TK-00114,2024-07-18,Account,Email,EU,3,okay experience
+TK-00115,2024-08-17,Billing,Phone,MEA,2,very helpful agent
+TK-00116,2024-01-01,Shipping,Phone,NA,3,nothing special
+TK-00117,2024-01-08,Shipping,Chat,EU,2,terrible experience
+TK-00118,2024-05-31,Billing,Chat,EU,1,nothing special
+TK-00119,2024-08-12,Product,Social,EU,4,okay experience
+TK-00120,2024-07-19,Billing,Phone,MEA,4,app keeps crashing
+TK-00121,2024-05-28,Shipping,Phone,EU,2,very helpful agent
+TK-00122,2024-06-05,Shipping,Phone,MEA,4,standard support
+TK-00123,2024-04-19,Shipping,Social,APAC,2,quick resolution
+TK-00124,2024-06-14,Technical,Social,APAC,4,okay experience
+TK-00125,2024-06-16,Account,Phone,NA,3,resolved fast
+TK-00126,2024-06-01,Technical,Chat,APAC,3,great communication
+TK-00127,2024-01-31,Technical,Email,APAC,4,it was fine
+TK-00128,2024-06-15,Shipping,Social,EU,5,excellent service
+TK-00129,2024-07-25,Technical,Phone,APAC,4,worst support
+TK-00130,2024-04-09,Technical,Chat,EU,5,nothing special
+TK-00131,2024-04-04,Account,Phone,NA,1,billing gone wrong
+TK-00132,2024-04-29,Shipping,Email,APAC,5,nothing special
+TK-00133,2024-06-28,Product,Chat,APAC,5,very helpful agent
+TK-00134,2024-07-12,Billing,Social,APAC,5,great communication
+TK-00135,2024-05-15,Billing,Phone,NA,2,best experience
+TK-00136,2024-06-07,Product,Social,APAC,1,okay experience
+TK-00137,2024-01-04,Product,Chat,MEA,3,okay experience
+TK-00138,2024-04-06,Product,Social,EU,2,rude agent
+TK-00139,2024-04-30,Technical,Phone,NA,2,billing gone wrong
+TK-00140,2024-08-18,Technical,Email,MEA,4,it was fine
+TK-00141,2024-02-18,Technical,Email,APAC,1,quick resolution
+TK-00142,2024-03-17,Billing,Email,APAC,3,resolved fast
+TK-00143,2024-05-21,Product,Email,NA,4,resolved fast
+TK-00144,2024-03-28,Technical,Phone,NA,3,resolved fast
+TK-00145,2024-07-06,Billing,Social,MEA,2,resolved fast
+TK-00146,2024-02-13,Account,Phone,NA,2,excellent service
+TK-00147,2024-05-10,Account,Social,APAC,5,standard support
+TK-00148,2024-02-24,Technical,Phone,MEA,1,it was fine
+TK-00149,2024-03-25,Account,Phone,APAC,1,okay experience
+TK-00150,2024-01-28,Product,Email,NA,1,okay experience
+TK-00151,2024-01-24,Technical,Phone,APAC,5,okay experience
+TK-00152,2024-02-22,Shipping,Chat,EU,5,very helpful agent
+TK-00153,2024-03-20,Billing,Phone,MEA,3,excellent service
+TK-00154,2024-06-05,Billing,Phone,MEA,3,nothing special
+TK-00155,2024-04-23,Account,Phone,APAC,4,best experience
+TK-00156,2024-06-30,Shipping,Email,NA,5,great communication
+TK-00157,2024-07-03,Account,Social,NA,4,great communication
+TK-00158,2024-05-26,Technical,Chat,EU,5,nothing special
+TK-00159,2024-03-30,Account,Email,APAC,5,okay experience
+TK-00160,2024-07-02,Billing,Phone,NA,3,great communication
+TK-00161,2024-07-28,Technical,Email,MEA,5,it was fine
+TK-00162,2024-07-04,Shipping,Phone,APAC,4,quick resolution
+TK-00163,2024-01-11,Product,Chat,EU,5,it was fine
+TK-00164,2024-06-20,Billing,Social,EU,2,standard support
+TK-00165,2024-01-26,Account,Social,NA,3,very helpful agent
+TK-00166,2024-01-06,Billing,Phone,EU,3,okay experience
+TK-00167,2024-08-26,Account,Chat,EU,3,okay experience
+TK-00168,2024-06-23,Product,Chat,NA,1,it was fine
+TK-00169,2024-03-12,Shipping,Chat,EU,2,quick resolution
+TK-00170,2024-01-17,Product,Social,APAC,4,loved the support
+TK-00171,2024-05-21,Shipping,Social,NA,4,okay experience
+TK-00172,2024-02-28,Billing,Chat,EU,4,quick resolution
+TK-00173,2024-02-22,Account,Social,EU,4,excellent service
+TK-00174,2024-04-19,Shipping,Phone,NA,2,quick resolution
+TK-00175,2024-06-06,Product,Chat,APAC,5,nothing special
+TK-00176,2024-02-29,Product,Phone,EU,5,okay experience
+TK-00177,2024-01-12,Billing,Social,MEA,3,worst support
+TK-00178,2024-02-27,Billing,Social,MEA,2,best experience
+TK-00179,2024-03-18,Account,Chat,EU,4,never received my order
+TK-00180,2024-05-22,Product,Social,APAC,4,nothing special
+TK-00181,2024-01-30,Billing,Social,APAC,4,standard support
+TK-00182,2024-02-11,Account,Email,EU,1,never received my order
+TK-00183,2024-02-11,Shipping,Social,EU,4,very slow refund
+TK-00184,2024-08-17,Account,Phone,MEA,5,excellent service
+TK-00185,2024-03-24,Shipping,Social,APAC,1,nothing special
+TK-00186,2024-04-17,Account,Email,MEA,3,standard support
+TK-00187,2024-01-01,Billing,Email,MEA,2,it was fine
+TK-00188,2024-06-06,Product,Phone,EU,3,nothing special
+TK-00189,2024-05-03,Technical,Email,NA,3,very helpful agent
+TK-00190,2024-04-20,Technical,Social,MEA,2,loved the support
+TK-00191,2024-04-10,Account,Chat,NA,3,standard support
+TK-00192,2024-05-14,Billing,Email,APAC,2,best experience
+TK-00193,2024-08-21,Billing,Email,NA,1,resolved fast
+TK-00194,2024-07-28,Product,Social,APAC,5,excellent service
+TK-00195,2024-03-01,Product,Social,APAC,5,billing gone wrong
+TK-00196,2024-01-29,Technical,Social,NA,4,nothing special
+TK-00197,2024-06-27,Technical,Chat,EU,3,standard support
+TK-00198,2024-05-21,Billing,Email,NA,4,nothing special
+TK-00199,2024-03-12,Shipping,Social,NA,3,standard support
+TK-00200,2024-08-16,Billing,Chat,MEA,3,it was fine
+TK-00201,2024-04-17,Account,Email,EU,1,quick resolution
+TK-00202,2024-07-08,Billing,Email,APAC,4,very helpful agent
+TK-00203,2024-08-24,Shipping,Phone,APAC,3,terrible experience
+TK-00204,2024-04-03,Billing,Phone,NA,5,resolved fast
+TK-00205,2024-07-12,Billing,Email,MEA,3,app keeps crashing
+TK-00206,2024-02-11,Billing,Social,MEA,1,great communication
+TK-00207,2024-02-25,Product,Social,MEA,1,loved the support
+TK-00208,2024-06-05,Technical,Email,NA,3,billing gone wrong
+TK-00209,2024-01-31,Billing,Social,EU,4,excellent service
+TK-00210,2024-06-03,Billing,Social,NA,2,it was fine
+TK-00211,2024-06-02,Product,Social,MEA,2,resolved fast
+TK-00212,2024-07-18,Product,Email,APAC,2,unacceptable wait time
+TK-00213,2024-07-25,Shipping,Chat,APAC,5,loved the support
+TK-00214,2024-01-24,Account,Social,APAC,3,billing gone wrong
+TK-00215,2024-07-21,Technical,Email,MEA,2,standard support
+TK-00216,2024-06-30,Product,Phone,NA,4,quick resolution
+TK-00217,2024-07-27,Billing,Chat,MEA,4,great communication
+TK-00218,2024-04-11,Technical,Phone,EU,1,loved the support
+TK-00219,2024-01-31,Account,Chat,MEA,1,standard support
+TK-00220,2024-02-02,Shipping,Email,MEA,3,okay experience
+TK-00221,2024-03-02,Technical,Email,APAC,5,standard support
+TK-00222,2024-06-08,Account,Phone,MEA,3,rude agent
+TK-00223,2024-01-29,Billing,Social,EU,3,rude agent
+TK-00224,2024-06-19,Shipping,Chat,APAC,4,great communication
+TK-00225,2024-01-15,Product,Chat,MEA,4,nothing special
+TK-00226,2024-04-15,Billing,Email,APAC,1,resolved fast
+TK-00227,2024-07-01,Account,Social,EU,3,great communication
+TK-00228,2024-06-21,Account,Social,NA,4,quick resolution
+TK-00229,2024-05-03,Product,Email,NA,3,great communication
+TK-00230,2024-04-26,Billing,Email,APAC,4,standard support
+TK-00231,2024-02-01,Shipping,Email,NA,3,very slow refund
+TK-00232,2024-01-06,Account,Phone,APAC,3,nothing special
+TK-00233,2024-07-15,Technical,Social,NA,1,it was fine
+TK-00234,2024-08-05,Shipping,Social,EU,4,okay experience
+TK-00235,2024-06-01,Billing,Phone,APAC,3,it was fine
+TK-00236,2024-06-04,Account,Phone,NA,4,quick resolution
+TK-00237,2024-04-13,Product,Email,EU,2,billing gone wrong
+TK-00238,2024-01-24,Product,Email,EU,1,excellent service
+TK-00239,2024-01-27,Shipping,Email,APAC,2,nothing special
+TK-00240,2024-02-15,Shipping,Email,NA,1,quick resolution
+TK-00241,2024-06-28,Technical,Chat,NA,3,okay experience
+TK-00242,2024-01-21,Product,Social,MEA,4,resolved fast
+TK-00243,2024-06-30,Account,Chat,APAC,2,worst support
+TK-00244,2024-06-25,Product,Phone,EU,3,it was fine
+TK-00245,2024-01-04,Technical,Social,EU,2,standard support
+TK-00246,2024-03-14,Product,Chat,NA,3,terrible experience
+TK-00247,2024-03-11,Shipping,Phone,EU,4,loved the support
+TK-00248,2024-02-04,Shipping,Email,NA,4,unacceptable wait time
+TK-00249,2024-07-31,Account,Social,NA,2,worst support
+TK-00250,2024-05-20,Account,Email,NA,3,app keeps crashing
+TK-00251,2024-02-07,Product,Chat,NA,2,great communication
+TK-00252,2024-08-13,Billing,Chat,NA,5,nothing special
+TK-00253,2024-08-12,Billing,Email,EU,3,nothing special
+TK-00254,2024-08-03,Technical,Social,APAC,2,loved the support
+TK-00255,2024-08-09,Account,Chat,MEA,4,app keeps crashing
+TK-00256,2024-08-13,Product,Chat,NA,3,very helpful agent
+TK-00257,2024-07-18,Billing,Phone,MEA,3,it was fine
+TK-00258,2024-06-28,Product,Social,NA,3,best experience
+TK-00259,2024-07-29,Account,Chat,EU,3,very slow refund
+TK-00260,2024-03-31,Account,Social,EU,1,it was fine
+TK-00261,2024-07-19,Account,Chat,NA,2,resolved fast
+TK-00262,2024-06-02,Technical,Email,NA,4,resolved fast
+TK-00263,2024-03-04,Technical,Chat,MEA,2,it was fine
+TK-00264,2024-03-16,Product,Phone,EU,5,worst support
+TK-00265,2024-06-18,Product,Social,MEA,3,best experience
+TK-00266,2024-04-02,Shipping,Chat,APAC,2,great communication
+TK-00267,2024-06-20,Shipping,Social,EU,3,loved the support
+TK-00268,2024-07-26,Technical,Chat,NA,5,it was fine
+TK-00269,2024-06-15,Account,Email,MEA,3,it was fine
+TK-00270,2024-07-25,Billing,Email,EU,5,okay experience
+TK-00271,2024-04-26,Technical,Phone,NA,2,best experience
+TK-00272,2024-08-27,Technical,Phone,NA,3,quick resolution
+TK-00273,2024-07-25,Billing,Social,EU,2,quick resolution
+TK-00274,2024-06-15,Billing,Email,MEA,3,great communication
+TK-00275,2024-03-09,Billing,Social,EU,5,loved the support
+TK-00276,2024-08-26,Technical,Email,MEA,5,quick resolution
+TK-00277,2024-07-06,Technical,Phone,MEA,3,it was fine
+TK-00278,2024-01-09,Account,Email,MEA,2,standard support
+TK-00279,2024-04-15,Account,Phone,APAC,3,best experience
+TK-00280,2024-01-26,Product,Social,EU,1,okay experience
+TK-00281,2024-06-22,Shipping,Phone,APAC,5,quick resolution
+TK-00282,2024-07-28,Technical,Chat,EU,4,okay experience
+TK-00283,2024-06-20,Shipping,Social,EU,3,rude agent
+TK-00284,2024-03-26,Billing,Chat,APAC,2,quick resolution
+TK-00285,2024-06-12,Account,Email,EU,3,quick resolution
+TK-00286,2024-08-07,Shipping,Email,NA,4,rude agent
+TK-00287,2024-05-19,Shipping,Social,APAC,2,great communication
+TK-00288,2024-03-28,Account,Email,MEA,4,never received my order
+TK-00289,2024-01-11,Billing,Social,APAC,2,very slow refund
+TK-00290,2024-07-26,Technical,Phone,APAC,1,nothing special
+TK-00291,2024-02-08,Product,Email,EU,3,it was fine
+TK-00292,2024-06-25,Technical,Social,APAC,3,great communication
+TK-00293,2024-02-15,Billing,Chat,NA,5,best experience
+TK-00294,2024-06-23,Product,Social,APAC,2,never received my order
+TK-00295,2024-02-26,Account,Email,MEA,3,nothing special
+TK-00296,2024-03-27,Product,Phone,NA,3,best experience
+TK-00297,2024-02-23,Product,Social,APAC,4,best experience
+TK-00298,2024-06-29,Billing,Chat,NA,2,standard support
+TK-00299,2024-04-22,Shipping,Email,NA,4,very helpful agent
+TK-00300,2024-05-23,Shipping,Chat,NA,3,it was fine
+TK-00301,2024-08-01,Product,Phone,EU,3,very helpful agent
+TK-00302,2024-02-06,Product,Social,NA,2,excellent service
+TK-00303,2024-03-25,Shipping,Social,NA,3,standard support
+TK-00304,2024-03-22,Billing,Email,EU,3,okay experience
+TK-00305,2024-07-24,Technical,Email,EU,2,great communication
+TK-00306,2024-08-10,Billing,Chat,NA,3,it was fine
+TK-00307,2024-04-21,Technical,Phone,MEA,3,standard support
+TK-00308,2024-01-06,Technical,Chat,MEA,5,great communication
+TK-00309,2024-04-12,Technical,Email,NA,1,loved the support
+TK-00310,2024-02-01,Billing,Chat,NA,3,worst support
+TK-00311,2024-01-22,Account,Email,NA,1,nothing special
+TK-00312,2024-04-26,Product,Email,MEA,1,okay experience
+TK-00313,2024-03-27,Account,Chat,NA,3,okay experience
+TK-00314,2024-04-20,Product,Social,MEA,2,unacceptable wait time
+TK-00315,2024-08-22,Account,Chat,APAC,1,it was fine
+TK-00316,2024-01-09,Product,Social,EU,3,worst support
+TK-00317,2024-05-05,Billing,Email,MEA,4,nothing special
+TK-00318,2024-06-06,Billing,Email,APAC,3,it was fine
+TK-00319,2024-07-07,Account,Phone,NA,3,excellent service
+TK-00320,2024-05-15,Shipping,Phone,MEA,1,excellent service
+TK-00321,2024-03-25,Shipping,Email,MEA,1,it was fine
+TK-00322,2024-03-01,Billing,Social,APAC,3,quick resolution
+TK-00323,2024-04-18,Product,Chat,NA,2,okay experience
+TK-00324,2024-05-26,Product,Phone,MEA,4,loved the support
+TK-00325,2024-05-17,Account,Chat,NA,1,nothing special
+TK-00326,2024-01-20,Shipping,Phone,EU,1,excellent service
+TK-00327,2024-07-28,Shipping,Phone,APAC,4,app keeps crashing
+TK-00328,2024-02-16,Billing,Social,MEA,3,great communication
+TK-00329,2024-03-26,Product,Email,EU,4,standard support
+TK-00330,2024-06-18,Shipping,Social,MEA,3,app keeps crashing
+TK-00331,2024-07-07,Billing,Phone,EU,1,best experience
+TK-00332,2024-04-14,Billing,Social,MEA,2,app keeps crashing
+TK-00333,2024-03-08,Technical,Phone,EU,1,excellent service
+TK-00334,2024-05-31,Account,Chat,MEA,3,worst support
+TK-00335,2024-05-24,Shipping,Social,APAC,2,great communication
+TK-00336,2024-04-14,Shipping,Email,NA,2,app keeps crashing
+TK-00337,2024-02-14,Billing,Email,NA,1,best experience
+TK-00338,2024-07-19,Shipping,Social,NA,2,best experience
+TK-00339,2024-03-30,Technical,Email,EU,2,very helpful agent
+TK-00340,2024-01-21,Billing,Social,NA,4,loved the support
+TK-00341,2024-08-13,Technical,Chat,NA,4,quick resolution
+TK-00342,2024-08-03,Account,Social,APAC,1,great communication
+TK-00343,2024-08-20,Shipping,Social,MEA,3,okay experience
+TK-00344,2024-07-27,Technical,Phone,APAC,3,nothing special
+TK-00345,2024-03-15,Billing,Chat,EU,3,loved the support
+TK-00346,2024-08-20,Product,Email,MEA,4,nothing special
+TK-00347,2024-06-12,Technical,Email,EU,1,quick resolution
+TK-00348,2024-01-30,Account,Social,APAC,4,quick resolution
+TK-00349,2024-07-09,Shipping,Social,MEA,2,never received my order
+TK-00350,2024-07-29,Account,Phone,APAC,3,resolved fast
+TK-00351,2024-01-25,Shipping,Chat,MEA,4,loved the support
+TK-00352,2024-05-05,Billing,Chat,MEA,2,best experience
+TK-00353,2024-01-01,Product,Email,NA,5,never received my order
+TK-00354,2024-02-27,Shipping,Email,APAC,3,nothing special
+TK-00355,2024-06-12,Billing,Chat,APAC,1,standard support
+TK-00356,2024-05-30,Billing,Phone,NA,3,very helpful agent
+TK-00357,2024-05-02,Technical,Email,MEA,2,okay experience
+TK-00358,2024-06-24,Billing,Chat,MEA,5,it was fine
+TK-00359,2024-03-03,Billing,Chat,NA,3,nothing special
+TK-00360,2024-03-04,Technical,Email,APAC,4,excellent service
+TK-00361,2024-03-03,Product,Phone,APAC,5,unacceptable wait time
+TK-00362,2024-03-14,Product,Email,MEA,3,loved the support
+TK-00363,2024-04-11,Account,Phone,NA,3,nothing special
+TK-00364,2024-02-19,Product,Email,NA,1,loved the support
+TK-00365,2024-08-20,Account,Phone,EU,4,never received my order
+TK-00366,2024-08-02,Product,Chat,APAC,4,billing gone wrong
+TK-00367,2024-06-02,Product,Phone,APAC,2,great communication
+TK-00368,2024-08-06,Billing,Email,EU,3,terrible experience
+TK-00369,2024-04-21,Technical,Phone,NA,1,quick resolution
+TK-00370,2024-07-28,Product,Email,EU,4,worst support
+TK-00371,2024-05-17,Technical,Chat,MEA,3,okay experience
+TK-00372,2024-04-28,Technical,Social,MEA,1,best experience
+TK-00373,2024-05-06,Billing,Social,EU,5,quick resolution
+TK-00374,2024-06-06,Billing,Chat,MEA,3,billing gone wrong
+TK-00375,2024-01-16,Account,Phone,MEA,3,best experience
+TK-00376,2024-03-11,Account,Social,APAC,2,very helpful agent
+TK-00377,2024-02-19,Billing,Social,MEA,3,billing gone wrong
+TK-00378,2024-05-02,Account,Chat,APAC,2,best experience
+TK-00379,2024-08-14,Account,Email,MEA,4,okay experience
+TK-00380,2024-04-17,Shipping,Phone,MEA,3,standard support
+TK-00381,2024-06-10,Product,Social,EU,1,resolved fast
+TK-00382,2024-07-22,Account,Social,MEA,5,great communication
+TK-00383,2024-07-10,Account,Email,MEA,5,loved the support
+TK-00384,2024-07-21,Billing,Email,EU,5,it was fine
+TK-00385,2024-04-15,Shipping,Phone,NA,3,it was fine
+TK-00386,2024-07-22,Account,Phone,MEA,2,quick resolution
+TK-00387,2024-05-28,Shipping,Phone,MEA,5,nothing special
+TK-00388,2024-08-12,Technical,Email,EU,1,nothing special
+TK-00389,2024-05-14,Product,Social,MEA,2,excellent service
+TK-00390,2024-05-29,Technical,Chat,NA,2,it was fine
+TK-00391,2024-04-29,Shipping,Social,EU,1,quick resolution
+TK-00392,2024-01-14,Shipping,Phone,NA,2,resolved fast
+TK-00393,2024-02-25,Billing,Social,NA,1,okay experience
+TK-00394,2024-07-12,Technical,Social,MEA,5,nothing special
+TK-00395,2024-08-02,Technical,Phone,MEA,1,okay experience
+TK-00396,2024-04-28,Shipping,Phone,APAC,2,it was fine
+TK-00397,2024-05-30,Shipping,Chat,EU,4,loved the support
+TK-00398,2024-06-27,Shipping,Phone,APAC,3,standard support
+TK-00399,2024-06-23,Shipping,Phone,NA,2,excellent service
+TK-00400,2024-02-02,Billing,Phone,EU,4,best experience
+TK-00401,2024-05-08,Technical,Email,APAC,1,nothing special
+TK-00402,2024-01-11,Product,Chat,MEA,2,best experience
+TK-00403,2024-05-28,Shipping,Social,APAC,3,nothing special
+TK-00404,2024-07-26,Account,Social,MEA,3,nothing special
+TK-00405,2024-04-14,Billing,Phone,EU,3,very helpful agent
+TK-00406,2024-02-22,Shipping,Phone,MEA,3,unacceptable wait time
+TK-00407,2024-03-16,Product,Social,APAC,4,best experience
+TK-00408,2024-01-03,Product,Phone,EU,3,very slow refund
+TK-00409,2024-01-20,Billing,Chat,NA,4,great communication
+TK-00410,2024-01-31,Technical,Phone,APAC,3,never received my order
+TK-00411,2024-02-24,Account,Chat,APAC,4,excellent service
+TK-00412,2024-04-01,Shipping,Social,EU,3,okay experience
+TK-00413,2024-07-03,Account,Email,NA,3,resolved fast
+TK-00414,2024-08-12,Technical,Email,MEA,4,excellent service
+TK-00415,2024-05-22,Shipping,Phone,MEA,2,okay experience
+TK-00416,2024-06-16,Technical,Social,EU,3,excellent service
+TK-00417,2024-01-17,Technical,Chat,NA,5,nothing special
+TK-00418,2024-07-20,Technical,Social,MEA,5,quick resolution
+TK-00419,2024-08-06,Product,Email,MEA,3,standard support
+TK-00420,2024-05-26,Technical,Social,MEA,3,worst support
+TK-00421,2024-03-31,Technical,Phone,APAC,1,standard support
+TK-00422,2024-01-28,Billing,Phone,MEA,4,app keeps crashing
+TK-00423,2024-04-23,Product,Social,EU,5,nothing special
+TK-00424,2024-03-16,Technical,Social,APAC,4,okay experience
+TK-00425,2024-01-24,Product,Email,MEA,2,billing gone wrong
+TK-00426,2024-04-06,Billing,Social,NA,4,excellent service
+TK-00427,2024-05-11,Technical,Chat,EU,1,very helpful agent
+TK-00428,2024-04-01,Product,Social,NA,2,excellent service
+TK-00429,2024-05-08,Technical,Phone,EU,1,it was fine
+TK-00430,2024-07-23,Product,Phone,MEA,3,nothing special
+TK-00431,2024-07-14,Product,Social,NA,3,terrible experience
+TK-00432,2024-04-02,Shipping,Phone,APAC,3,billing gone wrong
+TK-00433,2024-06-28,Shipping,Email,NA,1,loved the support
+TK-00434,2024-02-09,Account,Chat,EU,4,great communication
+TK-00435,2024-06-27,Billing,Phone,NA,4,very helpful agent
+TK-00436,2024-04-22,Product,Email,EU,2,billing gone wrong
+TK-00437,2024-08-22,Technical,Email,APAC,2,it was fine
+TK-00438,2024-08-16,Shipping,Social,EU,1,standard support
+TK-00439,2024-02-05,Product,Social,MEA,2,nothing special
+TK-00440,2024-05-14,Account,Email,EU,3,standard support
+TK-00441,2024-07-12,Account,Social,NA,2,terrible experience
+TK-00442,2024-05-15,Shipping,Social,APAC,5,okay experience
+TK-00443,2024-03-29,Account,Email,NA,3,okay experience
+TK-00444,2024-06-06,Technical,Chat,EU,2,unacceptable wait time
+TK-00445,2024-03-01,Billing,Social,EU,3,quick resolution
+TK-00446,2024-06-19,Shipping,Phone,APAC,3,standard support
+TK-00447,2024-03-04,Shipping,Social,EU,3,nothing special
+TK-00448,2024-04-17,Product,Social,APAC,2,quick resolution
+TK-00449,2024-03-17,Technical,Email,EU,4,it was fine
+TK-00450,2024-06-01,Technical,Phone,APAC,4,resolved fast
+TK-00451,2024-02-20,Product,Phone,EU,1,okay experience
+TK-00452,2024-07-06,Billing,Chat,EU,1,it was fine
+TK-00453,2024-02-06,Product,Email,NA,2,very helpful agent
+TK-00454,2024-08-16,Technical,Social,NA,3,quick resolution
+TK-00455,2024-06-13,Technical,Phone,APAC,4,very helpful agent
+TK-00456,2024-02-25,Billing,Chat,MEA,5,great communication
+TK-00457,2024-01-09,Shipping,Phone,NA,3,nothing special
+TK-00458,2024-05-06,Account,Chat,APAC,1,very helpful agent
+TK-00459,2024-04-20,Account,Email,NA,4,it was fine
+TK-00460,2024-01-14,Product,Chat,EU,4,best experience
+TK-00461,2024-07-25,Technical,Phone,NA,4,it was fine
+TK-00462,2024-03-11,Account,Social,APAC,4,great communication
+TK-00463,2024-06-15,Product,Phone,MEA,2,great communication
+TK-00464,2024-06-30,Billing,Chat,APAC,2,okay experience
+TK-00465,2024-01-01,Shipping,Phone,APAC,3,resolved fast
+TK-00466,2024-07-15,Account,Phone,APAC,3,great communication
+TK-00467,2024-07-19,Shipping,Chat,APAC,3,very helpful agent
+TK-00468,2024-05-17,Technical,Social,MEA,3,excellent service
+TK-00469,2024-07-27,Product,Chat,EU,2,okay experience
+TK-00470,2024-08-15,Account,Phone,APAC,2,terrible experience
+TK-00471,2024-05-02,Product,Email,EU,4,best experience
+TK-00472,2024-06-09,Technical,Chat,MEA,4,nothing special
+TK-00473,2024-03-27,Billing,Email,EU,3,okay experience
+TK-00474,2024-05-02,Billing,Email,APAC,3,standard support
+TK-00475,2024-02-06,Product,Phone,APAC,4,very helpful agent
+TK-00476,2024-05-13,Product,Phone,APAC,3,loved the support
+TK-00477,2024-03-14,Billing,Phone,NA,2,app keeps crashing
+TK-00478,2024-04-05,Shipping,Phone,EU,2,it was fine
+TK-00479,2024-05-29,Shipping,Social,MEA,3,standard support
+TK-00480,2024-04-04,Shipping,Social,EU,3,nothing special
+TK-00481,2024-07-28,Shipping,Email,NA,3,nothing special
+TK-00482,2024-06-08,Billing,Email,MEA,4,best experience
+TK-00483,2024-05-27,Account,Chat,EU,3,loved the support
+TK-00484,2024-06-29,Shipping,Email,MEA,1,excellent service
+TK-00485,2024-08-05,Shipping,Email,NA,4,loved the support
+TK-00486,2024-02-19,Billing,Chat,NA,2,very helpful agent
+TK-00487,2024-07-18,Product,Phone,EU,1,best experience
+TK-00488,2024-06-27,Account,Email,MEA,4,it was fine
+TK-00489,2024-04-26,Technical,Email,MEA,4,very helpful agent
+TK-00490,2024-06-15,Shipping,Chat,APAC,3,standard support
+TK-00491,2024-05-07,Shipping,Email,EU,3,excellent service
+TK-00492,2024-02-27,Billing,Email,EU,4,excellent service
+TK-00493,2024-08-13,Technical,Social,NA,3,nothing special
+TK-00494,2024-07-20,Account,Social,MEA,2,rude agent
+TK-00495,2024-08-01,Technical,Chat,NA,3,standard support
+TK-00496,2024-03-31,Shipping,Social,MEA,1,very slow refund
+TK-00497,2024-06-26,Billing,Phone,EU,3,standard support
+TK-00498,2024-03-04,Account,Phone,NA,3,very helpful agent
+TK-00499,2024-05-29,Shipping,Social,APAC,4,it was fine
+TK-00500,2024-07-31,Shipping,Chat,MEA,4,great communication
+TK-00501,2024-03-09,Account,Social,EU,2,okay experience
+TK-00502,2024-04-21,Shipping,Social,MEA,4,very helpful agent
+TK-00503,2024-03-13,Account,Email,NA,2,it was fine
+TK-00504,2024-05-15,Product,Email,APAC,4,it was fine
+TK-00505,2024-04-22,Account,Email,EU,5,best experience
+TK-00506,2024-04-29,Technical,Social,EU,2,standard support
+TK-00507,2024-01-20,Product,Social,APAC,4,unacceptable wait time
+TK-00508,2024-08-24,Technical,Email,APAC,2,it was fine
+TK-00509,2024-07-29,Account,Social,NA,2,very helpful agent
+TK-00510,2024-01-25,Shipping,Email,APAC,1,it was fine
+TK-00511,2024-04-26,Technical,Chat,EU,4,standard support
+TK-00512,2024-02-09,Technical,Phone,APAC,4,billing gone wrong
+TK-00513,2024-05-25,Product,Email,MEA,1,very slow refund
+TK-00514,2024-04-27,Billing,Chat,NA,2,standard support
+TK-00515,2024-01-11,Shipping,Email,NA,5,quick resolution
+TK-00516,2024-03-14,Technical,Social,EU,1,loved the support
+TK-00517,2024-01-01,Technical,Social,NA,3,resolved fast
+TK-00518,2024-02-13,Billing,Chat,EU,3,billing gone wrong
+TK-00519,2024-08-20,Shipping,Social,NA,3,loved the support
+TK-00520,2024-01-26,Billing,Chat,APAC,2,okay experience
+TK-00521,2024-06-24,Account,Email,APAC,1,resolved fast
+TK-00522,2024-05-10,Account,Chat,NA,4,okay experience
+TK-00523,2024-06-11,Billing,Chat,MEA,3,resolved fast
+TK-00524,2024-07-15,Product,Phone,EU,4,it was fine
+TK-00525,2024-04-11,Technical,Phone,EU,1,great communication
+TK-00526,2024-08-06,Shipping,Email,APAC,3,it was fine
+TK-00527,2024-07-17,Account,Email,MEA,4,nothing special
+TK-00528,2024-02-24,Account,Phone,MEA,3,best experience
+TK-00529,2024-07-28,Account,Phone,EU,2,app keeps crashing
+TK-00530,2024-03-14,Shipping,Phone,EU,5,standard support
+TK-00531,2024-04-15,Shipping,Phone,EU,2,it was fine
+TK-00532,2024-05-06,Shipping,Chat,APAC,3,excellent service
+TK-00533,2024-06-24,Technical,Email,NA,3,unacceptable wait time
+TK-00534,2024-06-28,Account,Phone,MEA,5,very helpful agent
+TK-00535,2024-01-03,Shipping,Phone,APAC,4,quick resolution
+TK-00536,2024-08-05,Product,Social,EU,1,loved the support
+TK-00537,2024-01-13,Technical,Chat,APAC,4,standard support
+TK-00538,2024-07-05,Shipping,Chat,EU,3,resolved fast
+TK-00539,2024-05-02,Billing,Social,MEA,2,best experience
+TK-00540,2024-02-27,Technical,Chat,APAC,4,standard support
+TK-00541,2024-05-14,Shipping,Email,NA,2,nothing special
+TK-00542,2024-01-11,Account,Email,APAC,4,resolved fast
+TK-00543,2024-07-14,Account,Phone,NA,3,worst support
+TK-00544,2024-05-24,Technical,Chat,APAC,3,loved the support
+TK-00545,2024-05-31,Technical,Social,MEA,5,great communication
+TK-00546,2024-03-04,Account,Phone,MEA,3,loved the support
+TK-00547,2024-06-20,Account,Phone,NA,5,very slow refund
+TK-00548,2024-02-29,Product,Email,EU,2,resolved fast
+TK-00549,2024-02-22,Shipping,Email,NA,2,resolved fast
+TK-00550,2024-04-11,Shipping,Phone,EU,5,it was fine
+TK-00551,2024-04-23,Account,Social,APAC,4,very helpful agent
+TK-00552,2024-06-12,Technical,Phone,NA,3,quick resolution
+TK-00553,2024-05-27,Shipping,Chat,NA,2,resolved fast
+TK-00554,2024-05-11,Shipping,Chat,MEA,4,excellent service
+TK-00555,2024-03-08,Billing,Phone,NA,4,best experience
+TK-00556,2024-08-12,Shipping,Chat,APAC,1,okay experience
+TK-00557,2024-06-10,Product,Social,APAC,3,okay experience
+TK-00558,2024-02-27,Account,Phone,MEA,1,loved the support
+TK-00559,2024-01-05,Account,Social,MEA,5,best experience
+TK-00560,2024-06-26,Product,Email,EU,2,it was fine
+TK-00561,2024-02-28,Account,Phone,APAC,2,standard support
+TK-00562,2024-07-23,Billing,Email,NA,2,quick resolution
+TK-00563,2024-04-14,Technical,Social,MEA,5,nothing special
+TK-00564,2024-04-08,Technical,Chat,APAC,2,standard support
+TK-00565,2024-05-14,Product,Chat,MEA,3,standard support
+TK-00566,2024-04-13,Product,Email,EU,1,nothing special
+TK-00567,2024-02-16,Billing,Phone,APAC,4,best experience
+TK-00568,2024-05-26,Billing,Chat,APAC,5,loved the support
+TK-00569,2024-02-07,Account,Social,MEA,2,standard support
+TK-00570,2024-05-03,Account,Social,APAC,3,nothing special
+TK-00571,2024-08-08,Shipping,Email,EU,4,okay experience
+TK-00572,2024-08-23,Shipping,Chat,EU,5,okay experience
+TK-00573,2024-06-20,Billing,Social,APAC,4,app keeps crashing
+TK-00574,2024-07-01,Shipping,Email,NA,2,quick resolution
+TK-00575,2024-06-03,Billing,Social,EU,1,best experience
+TK-00576,2024-01-04,Billing,Phone,APAC,4,excellent service
+TK-00577,2024-02-18,Technical,Social,APAC,2,okay experience
+TK-00578,2024-02-29,Product,Chat,EU,5,resolved fast
+TK-00579,2024-01-24,Product,Chat,NA,2,standard support
+TK-00580,2024-05-24,Shipping,Email,EU,3,quick resolution
+TK-00581,2024-06-07,Billing,Phone,NA,1,worst support
+TK-00582,2024-04-21,Shipping,Phone,EU,2,loved the support
+TK-00583,2024-03-16,Account,Social,NA,2,nothing special
+TK-00584,2024-07-10,Shipping,Chat,MEA,4,very slow refund
+TK-00585,2024-04-20,Shipping,Social,NA,1,okay experience
+TK-00586,2024-03-19,Shipping,Email,EU,2,best experience
+TK-00587,2024-04-21,Billing,Email,MEA,2,very helpful agent
+TK-00588,2024-06-05,Shipping,Social,NA,3,nothing special
+TK-00589,2024-07-22,Shipping,Chat,APAC,4,loved the support
+TK-00590,2024-05-12,Product,Social,NA,5,okay experience
+TK-00591,2024-07-25,Technical,Chat,APAC,3,nothing special
+TK-00592,2024-07-31,Account,Chat,APAC,1,okay experience
+TK-00593,2024-05-24,Shipping,Email,APAC,3,nothing special
+TK-00594,2024-01-25,Billing,Social,APAC,1,nothing special
+TK-00595,2024-03-15,Billing,Phone,EU,3,standard support
+TK-00596,2024-01-27,Product,Chat,MEA,4,resolved fast
+TK-00597,2024-06-15,Technical,Email,APAC,3,standard support
+TK-00598,2024-03-29,Shipping,Chat,APAC,4,app keeps crashing
+TK-00599,2024-07-16,Account,Chat,EU,2,okay experience
+TK-00600,2024-03-01,Account,Phone,MEA,3,okay experience
+TK-00601,2024-04-23,Product,Phone,MEA,3,best experience
+TK-00602,2024-08-04,Technical,Phone,NA,2,rude agent
+TK-00603,2024-02-18,Billing,Social,MEA,1,okay experience
+TK-00604,2024-07-30,Product,Email,MEA,4,loved the support
+TK-00605,2024-08-17,Technical,Chat,MEA,5,okay experience
+TK-00606,2024-02-02,Technical,Email,MEA,1,resolved fast
+TK-00607,2024-05-03,Product,Email,EU,3,standard support
+TK-00608,2024-04-02,Technical,Chat,MEA,3,excellent service
+TK-00609,2024-07-09,Billing,Social,MEA,1,loved the support
+TK-00610,2024-05-30,Technical,Social,NA,2,standard support
+TK-00611,2024-01-13,Billing,Chat,MEA,2,terrible experience
+TK-00612,2024-07-01,Shipping,Chat,MEA,3,nothing special
+TK-00613,2024-03-27,Billing,Email,APAC,4,standard support
+TK-00614,2024-06-03,Technical,Email,EU,4,worst support
+TK-00615,2024-05-03,Account,Email,EU,2,nothing special
+TK-00616,2024-04-12,Technical,Social,MEA,4,terrible experience
+TK-00617,2024-05-06,Product,Phone,APAC,3,best experience
+TK-00618,2024-01-03,Billing,Chat,NA,3,nothing special
+TK-00619,2024-06-23,Product,Phone,APAC,4,best experience
+TK-00620,2024-06-23,Product,Social,MEA,3,loved the support
+TK-00621,2024-06-02,Billing,Phone,MEA,2,billing gone wrong
+TK-00622,2024-01-31,Product,Chat,NA,3,it was fine
+TK-00623,2024-04-22,Account,Email,EU,3,rude agent
+TK-00624,2024-05-31,Account,Email,MEA,4,standard support
+TK-00625,2024-07-16,Technical,Social,EU,4,app keeps crashing
+TK-00626,2024-05-02,Shipping,Social,NA,1,it was fine
+TK-00627,2024-06-06,Shipping,Social,EU,2,great communication
+TK-00628,2024-08-13,Product,Phone,NA,2,excellent service
+TK-00629,2024-02-13,Shipping,Chat,MEA,5,quick resolution
+TK-00630,2024-06-24,Billing,Chat,APAC,4,very helpful agent
+TK-00631,2024-02-19,Product,Email,MEA,2,nothing special
+TK-00632,2024-02-18,Technical,Email,APAC,3,resolved fast
+TK-00633,2024-02-13,Technical,Social,EU,3,quick resolution
+TK-00634,2024-06-10,Billing,Chat,EU,3,it was fine
+TK-00635,2024-02-23,Technical,Social,MEA,3,terrible experience
+TK-00636,2024-01-01,Shipping,Email,MEA,3,quick resolution
+TK-00637,2024-02-19,Account,Social,EU,4,nothing special
+TK-00638,2024-07-27,Product,Social,EU,5,app keeps crashing
+TK-00639,2024-06-27,Shipping,Email,APAC,2,okay experience
+TK-00640,2024-04-16,Account,Social,NA,5,loved the support
+TK-00641,2024-07-07,Account,Phone,EU,5,very helpful agent
+TK-00642,2024-06-25,Technical,Chat,NA,4,never received my order
+TK-00643,2024-03-18,Product,Email,EU,3,loved the support
+TK-00644,2024-01-05,Shipping,Social,EU,5,best experience
+TK-00645,2024-02-02,Shipping,Phone,NA,2,very slow refund
+TK-00646,2024-04-05,Technical,Social,APAC,4,great communication
+TK-00647,2024-02-13,Billing,Email,NA,1,standard support
+TK-00648,2024-07-15,Billing,Phone,EU,2,nothing special
+TK-00649,2024-02-28,Technical,Phone,MEA,3,okay experience
+TK-00650,2024-05-13,Technical,Phone,MEA,3,nothing special
+TK-00651,2024-08-16,Shipping,Social,APAC,4,worst support
+TK-00652,2024-02-10,Shipping,Email,APAC,4,very helpful agent
+TK-00653,2024-07-25,Product,Chat,NA,4,quick resolution
+TK-00654,2024-07-31,Technical,Email,APAC,4,it was fine
+TK-00655,2024-02-08,Technical,Email,APAC,2,nothing special
+TK-00656,2024-01-19,Shipping,Email,NA,5,terrible experience
+TK-00657,2024-04-12,Technical,Phone,EU,3,excellent service
+TK-00658,2024-02-13,Account,Social,MEA,3,great communication
+TK-00659,2024-05-20,Account,Chat,APAC,2,quick resolution
+TK-00660,2024-05-22,Shipping,Social,NA,1,it was fine
+TK-00661,2024-07-29,Product,Social,EU,4,it was fine
+TK-00662,2024-03-01,Product,Phone,NA,3,nothing special
+TK-00663,2024-01-02,Account,Phone,EU,4,billing gone wrong
+TK-00664,2024-06-24,Account,Email,APAC,1,quick resolution
+TK-00665,2024-06-06,Billing,Social,EU,2,quick resolution
+TK-00666,2024-01-17,Billing,Social,NA,3,it was fine
+TK-00667,2024-01-08,Account,Phone,NA,4,billing gone wrong
+TK-00668,2024-06-15,Account,Email,NA,5,rude agent
+TK-00669,2024-07-22,Technical,Chat,MEA,3,standard support
+TK-00670,2024-05-18,Technical,Email,NA,5,excellent service
+TK-00671,2024-06-11,Account,Email,APAC,4,it was fine
+TK-00672,2024-04-17,Account,Email,NA,2,okay experience
+TK-00673,2024-03-17,Shipping,Email,APAC,4,best experience
+TK-00674,2024-03-21,Account,Chat,NA,3,quick resolution
+TK-00675,2024-02-02,Shipping,Phone,APAC,2,okay experience
+TK-00676,2024-01-13,Shipping,Phone,NA,4,billing gone wrong
+TK-00677,2024-06-13,Shipping,Email,MEA,4,resolved fast
+TK-00678,2024-08-27,Shipping,Phone,NA,2,quick resolution
+TK-00679,2024-05-05,Technical,Social,NA,2,resolved fast
+TK-00680,2024-08-23,Product,Chat,EU,2,best experience
+TK-00681,2024-02-23,Shipping,Phone,EU,4,standard support
+TK-00682,2024-08-01,Shipping,Email,NA,3,excellent service
+TK-00683,2024-07-02,Product,Phone,EU,2,it was fine
+TK-00684,2024-05-31,Product,Chat,APAC,2,great communication
+TK-00685,2024-07-18,Billing,Email,EU,1,okay experience
+TK-00686,2024-01-09,Shipping,Email,EU,1,app keeps crashing
+TK-00687,2024-04-30,Account,Chat,APAC,3,okay experience
+TK-00688,2024-02-17,Account,Chat,NA,2,okay experience
+TK-00689,2024-06-08,Shipping,Phone,APAC,3,nothing special
+TK-00690,2024-05-07,Technical,Chat,APAC,3,never received my order
+TK-00691,2024-03-24,Product,Social,APAC,4,very helpful agent
+TK-00692,2024-07-01,Shipping,Chat,MEA,4,quick resolution
+TK-00693,2024-03-05,Account,Chat,APAC,3,nothing special
+TK-00694,2024-08-11,Billing,Social,MEA,2,very helpful agent
+TK-00695,2024-05-05,Shipping,Chat,APAC,3,never received my order
+TK-00696,2024-05-18,Billing,Chat,APAC,3,standard support
+TK-00697,2024-04-07,Technical,Social,MEA,3,rude agent
+TK-00698,2024-06-27,Product,Phone,NA,4,standard support
+TK-00699,2024-06-09,Shipping,Chat,NA,4,quick resolution
+TK-00700,2024-06-28,Technical,Phone,EU,4,very helpful agent
+TK-00701,2024-04-29,Billing,Social,MEA,2,okay experience
+TK-00702,2024-07-21,Technical,Email,NA,2,app keeps crashing
+TK-00703,2024-02-06,Shipping,Phone,NA,1,best experience
+TK-00704,2024-03-08,Account,Email,MEA,4,very helpful agent
+TK-00705,2024-08-08,Billing,Email,NA,1,okay experience
+TK-00706,2024-01-04,Account,Email,NA,4,best experience
+TK-00707,2024-02-16,Product,Phone,MEA,5,it was fine
+TK-00708,2024-08-26,Product,Phone,APAC,3,standard support
+TK-00709,2024-03-08,Technical,Social,MEA,4,resolved fast
+TK-00710,2024-06-14,Shipping,Email,MEA,2,billing gone wrong
+TK-00711,2024-05-13,Billing,Social,NA,3,terrible experience
+TK-00712,2024-08-13,Billing,Social,MEA,3,it was fine
+TK-00713,2024-08-27,Product,Email,MEA,3,it was fine
+TK-00714,2024-06-27,Product,Social,APAC,4,rude agent
+TK-00715,2024-01-27,Product,Phone,EU,5,okay experience
+TK-00716,2024-05-24,Shipping,Email,APAC,1,quick resolution
+TK-00717,2024-07-01,Billing,Email,APAC,2,excellent service
+TK-00718,2024-05-08,Account,Email,NA,3,it was fine
+TK-00719,2024-07-12,Product,Social,NA,1,resolved fast
+TK-00720,2024-04-01,Technical,Email,NA,4,it was fine
+TK-00721,2024-01-29,Account,Chat,NA,3,great communication
+TK-00722,2024-05-14,Billing,Chat,APAC,2,quick resolution
+TK-00723,2024-03-17,Billing,Social,MEA,4,loved the support
+TK-00724,2024-06-24,Shipping,Email,APAC,2,worst support
+TK-00725,2024-05-13,Billing,Chat,APAC,2,standard support
+TK-00726,2024-01-31,Billing,Social,EU,2,loved the support
+TK-00727,2024-08-17,Shipping,Chat,APAC,3,app keeps crashing
+TK-00728,2024-02-14,Account,Email,NA,3,nothing special
+TK-00729,2024-06-28,Billing,Chat,NA,2,resolved fast
+TK-00730,2024-03-07,Billing,Social,EU,4,quick resolution
+TK-00731,2024-06-22,Technical,Email,NA,4,rude agent
+TK-00732,2024-02-10,Product,Social,EU,3,it was fine
+TK-00733,2024-02-24,Shipping,Chat,NA,2,it was fine
+TK-00734,2024-08-23,Shipping,Email,APAC,4,resolved fast
+TK-00735,2024-06-07,Shipping,Social,EU,3,billing gone wrong
+TK-00736,2024-02-02,Billing,Chat,MEA,2,nothing special
+TK-00737,2024-02-13,Shipping,Email,NA,1,nothing special
+TK-00738,2024-07-03,Account,Chat,EU,4,never received my order
+TK-00739,2024-01-14,Account,Phone,EU,2,okay experience
+TK-00740,2024-01-11,Account,Phone,APAC,3,billing gone wrong
+TK-00741,2024-05-17,Account,Email,APAC,4,excellent service
+TK-00742,2024-03-14,Technical,Chat,MEA,3,app keeps crashing
+TK-00743,2024-05-17,Shipping,Chat,NA,1,standard support
+TK-00744,2024-05-21,Technical,Phone,APAC,2,standard support
+TK-00745,2024-08-18,Billing,Email,MEA,2,standard support
+TK-00746,2024-07-21,Technical,Chat,EU,1,resolved fast
+TK-00747,2024-05-18,Billing,Chat,MEA,4,excellent service
+TK-00748,2024-03-02,Technical,Chat,APAC,1,excellent service
+TK-00749,2024-01-07,Technical,Social,MEA,1,resolved fast
+TK-00750,2024-02-10,Account,Phone,MEA,3,loved the support
+TK-00751,2024-06-23,Shipping,Chat,MEA,3,app keeps crashing
+TK-00752,2024-03-08,Product,Email,APAC,1,worst support
+TK-00753,2024-07-08,Account,Social,APAC,3,it was fine
+TK-00754,2024-05-22,Technical,Chat,APAC,2,very slow refund
+TK-00755,2024-08-12,Billing,Chat,EU,2,very helpful agent
+TK-00756,2024-07-13,Product,Social,EU,3,terrible experience
+TK-00757,2024-06-02,Billing,Phone,MEA,3,rude agent
+TK-00758,2024-05-03,Shipping,Social,MEA,2,standard support
+TK-00759,2024-03-31,Shipping,Social,MEA,3,it was fine
+TK-00760,2024-01-22,Shipping,Phone,NA,3,never received my order
+TK-00761,2024-07-11,Technical,Phone,APAC,3,great communication
+TK-00762,2024-03-03,Billing,Social,MEA,4,standard support
+TK-00763,2024-05-08,Product,Chat,MEA,2,rude agent
+TK-00764,2024-03-26,Billing,Phone,APAC,3,excellent service
+TK-00765,2024-05-06,Billing,Email,APAC,3,quick resolution
+TK-00766,2024-06-19,Account,Email,APAC,4,standard support
+TK-00767,2024-02-18,Account,Email,APAC,3,resolved fast
+TK-00768,2024-02-09,Product,Social,MEA,1,okay experience
+TK-00769,2024-03-08,Billing,Social,EU,3,okay experience
+TK-00770,2024-08-16,Billing,Social,APAC,3,it was fine
+TK-00771,2024-02-03,Shipping,Email,EU,2,nothing special
+TK-00772,2024-01-28,Technical,Social,NA,3,it was fine
+TK-00773,2024-02-16,Product,Email,APAC,2,resolved fast
+TK-00774,2024-08-18,Technical,Chat,NA,1,it was fine
+TK-00775,2024-01-01,Shipping,Chat,NA,2,billing gone wrong
+TK-00776,2024-01-03,Billing,Chat,NA,5,very helpful agent
+TK-00777,2024-05-08,Shipping,Phone,MEA,3,standard support
+TK-00778,2024-04-14,Product,Email,MEA,4,worst support
+TK-00779,2024-05-23,Technical,Chat,NA,4,loved the support
+TK-00780,2024-03-16,Product,Email,EU,4,nothing special
+TK-00781,2024-03-12,Account,Chat,MEA,4,loved the support
+TK-00782,2024-04-19,Technical,Phone,NA,3,quick resolution
+TK-00783,2024-05-30,Product,Social,APAC,3,excellent service
+TK-00784,2024-04-30,Product,Phone,MEA,2,billing gone wrong
+TK-00785,2024-03-10,Product,Email,EU,3,standard support
+TK-00786,2024-06-07,Product,Email,NA,4,never received my order
+TK-00787,2024-02-05,Shipping,Email,EU,5,great communication
+TK-00788,2024-05-20,Billing,Email,NA,3,standard support
+TK-00789,2024-08-11,Shipping,Email,APAC,3,excellent service
+TK-00790,2024-01-01,Account,Email,APAC,2,terrible experience
+TK-00791,2024-01-05,Technical,Email,NA,1,very helpful agent
+TK-00792,2024-07-01,Account,Phone,APAC,5,very helpful agent
+TK-00793,2024-03-09,Technical,Chat,MEA,3,excellent service
+TK-00794,2024-04-20,Account,Chat,APAC,2,resolved fast
+TK-00795,2024-07-08,Technical,Social,APAC,3,resolved fast
+TK-00796,2024-03-11,Account,Email,APAC,1,standard support
+TK-00797,2024-05-23,Billing,Email,EU,2,best experience
+TK-00798,2024-03-29,Billing,Phone,EU,5,standard support
+TK-00799,2024-03-08,Shipping,Social,APAC,2,very helpful agent
+TK-00800,2024-01-06,Technical,Phone,APAC,1,it was fine
+TK-00801,2024-05-28,Technical,Chat,NA,3,great communication
+TK-00802,2024-02-17,Account,Phone,EU,3,it was fine
+TK-00803,2024-08-24,Account,Phone,EU,3,very helpful agent
+TK-00804,2024-04-30,Product,Chat,MEA,3,loved the support
+TK-00805,2024-05-18,Product,Phone,NA,4,very helpful agent
+TK-00806,2024-01-31,Product,Phone,EU,5,okay experience
+TK-00807,2024-02-23,Account,Phone,APAC,1,terrible experience
+TK-00808,2024-02-01,Technical,Social,NA,5,great communication
+TK-00809,2024-01-07,Billing,Social,NA,3,terrible experience
+TK-00810,2024-04-13,Shipping,Phone,EU,3,excellent service
+TK-00811,2024-06-20,Account,Phone,APAC,4,rude agent
+TK-00812,2024-07-13,Shipping,Chat,MEA,2,nothing special
+TK-00813,2024-03-28,Technical,Email,APAC,5,resolved fast
+TK-00814,2024-07-18,Product,Email,MEA,1,nothing special
+TK-00815,2024-05-06,Product,Phone,APAC,2,app keeps crashing
+TK-00816,2024-02-14,Shipping,Chat,EU,4,app keeps crashing
+TK-00817,2024-05-13,Product,Phone,NA,3,worst support
+TK-00818,2024-03-03,Shipping,Social,MEA,3,rude agent
+TK-00819,2024-08-08,Shipping,Chat,MEA,3,worst support
+TK-00820,2024-01-30,Billing,Email,EU,3,unacceptable wait time
+TK-00821,2024-01-02,Product,Social,APAC,4,rude agent
+TK-00822,2024-03-23,Shipping,Social,NA,3,billing gone wrong
+TK-00823,2024-03-31,Technical,Phone,NA,4,billing gone wrong
+TK-00824,2024-07-11,Shipping,Chat,APAC,2,quick resolution
+TK-00825,2024-01-13,Account,Email,NA,2,standard support
+TK-00826,2024-05-18,Product,Social,EU,3,standard support
+TK-00827,2024-07-09,Technical,Phone,EU,3,loved the support
+TK-00828,2024-07-22,Shipping,Email,NA,3,quick resolution
+TK-00829,2024-05-31,Shipping,Phone,MEA,1,okay experience
+TK-00830,2024-04-02,Billing,Chat,MEA,3,okay experience
+TK-00831,2024-03-23,Billing,Social,NA,1,nothing special
+TK-00832,2024-01-13,Shipping,Chat,MEA,1,it was fine
+TK-00833,2024-01-27,Shipping,Phone,EU,5,it was fine
+TK-00834,2024-05-25,Product,Social,NA,5,loved the support
+TK-00835,2024-01-25,Account,Chat,MEA,3,terrible experience
+TK-00836,2024-07-13,Shipping,Chat,MEA,2,worst support
+TK-00837,2024-06-18,Shipping,Phone,NA,2,quick resolution
+TK-00838,2024-04-18,Billing,Phone,NA,4,terrible experience
+TK-00839,2024-04-21,Product,Email,APAC,3,okay experience
+TK-00840,2024-08-26,Shipping,Phone,NA,4,standard support
+TK-00841,2024-03-06,Shipping,Email,APAC,5,never received my order
+TK-00842,2024-01-27,Technical,Phone,APAC,3,very helpful agent
+TK-00843,2024-01-10,Product,Phone,EU,2,rude agent
+TK-00844,2024-03-18,Billing,Chat,MEA,4,nothing special
+TK-00845,2024-06-10,Technical,Social,APAC,3,standard support
+TK-00846,2024-07-25,Account,Phone,EU,2,it was fine
+TK-00847,2024-03-04,Technical,Chat,EU,1,app keeps crashing
+TK-00848,2024-05-30,Shipping,Phone,MEA,3,very helpful agent
+TK-00849,2024-01-27,Product,Email,MEA,5,nothing special
+TK-00850,2024-02-11,Product,Social,APAC,4,excellent service
+TK-00851,2024-06-07,Billing,Phone,NA,2,it was fine
+TK-00852,2024-06-02,Technical,Chat,MEA,3,great communication
+TK-00853,2024-06-05,Product,Social,MEA,3,rude agent
+TK-00854,2024-07-30,Technical,Email,MEA,3,okay experience
+TK-00855,2024-04-01,Billing,Email,NA,4,best experience
+TK-00856,2024-07-25,Shipping,Social,MEA,1,very slow refund
+TK-00857,2024-01-01,Technical,Social,MEA,3,it was fine
+TK-00858,2024-05-30,Product,Social,APAC,3,it was fine
+TK-00859,2024-08-04,Billing,Chat,EU,3,resolved fast
+TK-00860,2024-01-03,Technical,Social,NA,5,quick resolution
+TK-00861,2024-02-09,Technical,Phone,EU,1,terrible experience
+TK-00862,2024-04-07,Shipping,Social,APAC,3,standard support
+TK-00863,2024-02-29,Account,Phone,MEA,4,standard support
+TK-00864,2024-06-22,Account,Chat,APAC,1,resolved fast
+TK-00865,2024-07-28,Account,Chat,APAC,4,very helpful agent
+TK-00866,2024-03-30,Technical,Email,NA,1,great communication
+TK-00867,2024-07-25,Product,Chat,APAC,4,standard support
+TK-00868,2024-04-15,Product,Email,APAC,4,nothing special
+TK-00869,2024-05-11,Shipping,Phone,EU,3,nothing special
+TK-00870,2024-05-08,Shipping,Social,APAC,1,excellent service
+TK-00871,2024-03-27,Billing,Social,EU,1,quick resolution
+TK-00872,2024-06-25,Account,Email,APAC,3,very helpful agent
+TK-00873,2024-08-26,Technical,Social,NA,5,great communication
+TK-00874,2024-02-15,Billing,Email,NA,4,standard support
+TK-00875,2024-03-11,Billing,Social,EU,3,resolved fast
+TK-00876,2024-04-11,Billing,Email,APAC,3,excellent service
+TK-00877,2024-06-28,Technical,Chat,NA,4,loved the support
+TK-00878,2024-08-14,Shipping,Email,EU,3,okay experience
+TK-00879,2024-05-18,Product,Phone,MEA,2,rude agent
+TK-00880,2024-01-08,Shipping,Chat,APAC,2,worst support
+TK-00881,2024-03-11,Billing,Social,APAC,2,standard support
+TK-00882,2024-08-18,Account,Email,NA,3,quick resolution
+TK-00883,2024-06-19,Technical,Phone,APAC,1,it was fine
+TK-00884,2024-02-23,Billing,Phone,APAC,1,nothing special
+TK-00885,2024-04-02,Product,Email,EU,3,nothing special
+TK-00886,2024-05-05,Product,Social,MEA,2,standard support
+TK-00887,2024-04-19,Technical,Phone,APAC,1,standard support
+TK-00888,2024-03-26,Product,Phone,MEA,2,okay experience
+TK-00889,2024-08-06,Shipping,Phone,NA,5,it was fine
+TK-00890,2024-06-04,Billing,Social,APAC,4,nothing special
+TK-00891,2024-07-03,Shipping,Chat,NA,4,okay experience
+TK-00892,2024-06-09,Billing,Email,NA,3,worst support
+TK-00893,2024-01-06,Account,Email,MEA,4,great communication
+TK-00894,2024-03-17,Shipping,Social,MEA,2,okay experience
+TK-00895,2024-03-31,Technical,Social,APAC,3,okay experience
+TK-00896,2024-06-28,Product,Phone,MEA,3,best experience
+TK-00897,2024-07-21,Shipping,Chat,MEA,2,great communication
+TK-00898,2024-06-15,Technical,Chat,EU,2,best experience
+TK-00899,2024-05-27,Shipping,Email,MEA,4,very helpful agent
+TK-00900,2024-04-06,Account,Chat,APAC,5,quick resolution
+TK-00901,2024-08-13,Technical,Chat,MEA,2,nothing special
+TK-00902,2024-07-07,Shipping,Phone,MEA,2,okay experience
+TK-00903,2024-07-04,Technical,Social,APAC,3,it was fine
+TK-00904,2024-01-01,Account,Chat,NA,5,worst support
+TK-00905,2024-04-22,Shipping,Chat,APAC,3,loved the support
+TK-00906,2024-05-31,Shipping,Chat,MEA,1,standard support
+TK-00907,2024-04-26,Account,Chat,MEA,2,quick resolution
+TK-00908,2024-01-29,Product,Chat,APAC,3,standard support
+TK-00909,2024-02-07,Technical,Email,EU,3,resolved fast
+TK-00910,2024-06-22,Shipping,Chat,EU,3,unacceptable wait time
+TK-00911,2024-05-04,Account,Phone,NA,2,standard support
+TK-00912,2024-02-24,Product,Phone,EU,2,very helpful agent
+TK-00913,2024-02-24,Shipping,Phone,MEA,3,terrible experience
+TK-00914,2024-03-31,Shipping,Phone,MEA,1,very slow refund
+TK-00915,2024-01-14,Product,Social,EU,4,rude agent
+TK-00916,2024-05-16,Account,Social,APAC,3,app keeps crashing
+TK-00917,2024-05-16,Account,Phone,MEA,3,nothing special
+TK-00918,2024-06-05,Account,Email,NA,2,nothing special
+TK-00919,2024-07-26,Account,Social,APAC,5,it was fine
+TK-00920,2024-07-27,Shipping,Social,NA,3,best experience
+TK-00921,2024-07-09,Product,Chat,EU,5,billing gone wrong
+TK-00922,2024-02-12,Shipping,Social,NA,3,okay experience
+TK-00923,2024-04-03,Billing,Phone,MEA,3,quick resolution
+TK-00924,2024-01-08,Billing,Chat,EU,3,loved the support
+TK-00925,2024-02-17,Technical,Social,APAC,2,app keeps crashing
+TK-00926,2024-02-28,Account,Email,NA,1,rude agent
+TK-00927,2024-02-02,Shipping,Phone,NA,3,great communication
+TK-00928,2024-05-29,Account,Chat,EU,4,very helpful agent
+TK-00929,2024-06-27,Product,Social,NA,4,it was fine
+TK-00930,2024-06-13,Account,Phone,EU,1,standard support
+TK-00931,2024-06-07,Billing,Chat,MEA,3,very slow refund
+TK-00932,2024-05-25,Shipping,Phone,MEA,4,great communication
+TK-00933,2024-03-23,Shipping,Chat,APAC,4,nothing special
+TK-00934,2024-08-01,Product,Social,MEA,1,okay experience
+TK-00935,2024-01-21,Shipping,Social,EU,2,very slow refund
+TK-00936,2024-01-14,Technical,Phone,MEA,2,it was fine
+TK-00937,2024-05-29,Billing,Email,EU,5,rude agent
+TK-00938,2024-03-23,Account,Chat,APAC,3,excellent service
+TK-00939,2024-03-29,Technical,Social,MEA,5,resolved fast
+TK-00940,2024-07-10,Billing,Social,NA,2,okay experience
+TK-00941,2024-04-14,Technical,Phone,MEA,4,resolved fast
+TK-00942,2024-07-31,Technical,Email,EU,3,worst support
+TK-00943,2024-08-25,Product,Chat,APAC,1,it was fine
+TK-00944,2024-02-03,Account,Chat,NA,3,loved the support
+TK-00945,2024-08-03,Product,Social,APAC,5,excellent service
+TK-00946,2024-06-05,Shipping,Chat,MEA,2,best experience
+TK-00947,2024-03-28,Technical,Phone,MEA,3,best experience
+TK-00948,2024-06-08,Billing,Phone,MEA,5,resolved fast
+TK-00949,2024-03-09,Technical,Chat,EU,3,great communication
+TK-00950,2024-01-31,Billing,Chat,EU,2,nothing special
+TK-00951,2024-03-22,Billing,Phone,APAC,2,nothing special
+TK-00952,2024-05-13,Billing,Social,NA,3,nothing special
+TK-00953,2024-07-16,Account,Phone,NA,4,okay experience
+TK-00954,2024-03-24,Shipping,Phone,MEA,1,quick resolution
+TK-00955,2024-08-12,Product,Email,NA,2,best experience
+TK-00956,2024-07-07,Technical,Phone,MEA,4,okay experience
+TK-00957,2024-07-14,Shipping,Phone,MEA,3,billing gone wrong
+TK-00958,2024-03-03,Account,Phone,EU,1,terrible experience
+TK-00959,2024-06-12,Technical,Phone,NA,3,okay experience
+TK-00960,2024-07-29,Product,Chat,MEA,1,standard support
+TK-00961,2024-04-09,Shipping,Email,NA,2,great communication
+TK-00962,2024-01-03,Technical,Social,EU,2,okay experience
+TK-00963,2024-02-06,Billing,Phone,NA,3,quick resolution
+TK-00964,2024-05-27,Shipping,Phone,APAC,4,nothing special
+TK-00965,2024-05-05,Product,Phone,MEA,4,quick resolution
+TK-00966,2024-04-01,Shipping,Email,APAC,4,very helpful agent
+TK-00967,2024-01-21,Billing,Chat,EU,3,unacceptable wait time
+TK-00968,2024-06-10,Billing,Chat,MEA,3,loved the support
+TK-00969,2024-01-09,Product,Phone,MEA,5,resolved fast
+TK-00970,2024-03-01,Account,Chat,APAC,1,best experience
+TK-00971,2024-02-17,Shipping,Social,NA,1,nothing special
+TK-00972,2024-06-23,Shipping,Phone,EU,5,rude agent
+TK-00973,2024-07-14,Product,Email,MEA,4,very helpful agent
+TK-00974,2024-08-09,Billing,Phone,APAC,4,loved the support
+TK-00975,2024-01-02,Shipping,Social,MEA,1,excellent service
+TK-00976,2024-05-24,Product,Email,EU,4,excellent service
+TK-00977,2024-08-20,Shipping,Chat,APAC,1,resolved fast
+TK-00978,2024-06-06,Account,Social,NA,4,very slow refund
+TK-00979,2024-03-28,Shipping,Social,MEA,4,quick resolution
+TK-00980,2024-03-21,Product,Chat,APAC,5,unacceptable wait time
+TK-00981,2024-02-22,Account,Chat,MEA,2,it was fine
+TK-00982,2024-08-12,Shipping,Email,NA,1,loved the support
+TK-00983,2024-07-06,Product,Social,NA,1,worst support
+TK-00984,2024-03-20,Billing,Phone,APAC,3,best experience
+TK-00985,2024-05-18,Product,Chat,EU,4,standard support
+TK-00986,2024-08-20,Product,Social,MEA,4,loved the support
+TK-00987,2024-05-10,Billing,Chat,APAC,2,rude agent
+TK-00988,2024-02-07,Product,Chat,APAC,3,app keeps crashing
+TK-00989,2024-08-01,Product,Social,NA,3,excellent service
+TK-00990,2024-03-16,Billing,Chat,APAC,4,it was fine
+TK-00991,2024-02-24,Account,Phone,MEA,4,very helpful agent
+TK-00992,2024-07-21,Account,Email,NA,3,okay experience
+TK-00993,2024-02-26,Billing,Email,EU,4,billing gone wrong
+TK-00994,2024-01-26,Billing,Email,MEA,4,nothing special
+TK-00995,2024-02-13,Billing,Social,EU,4,great communication
+TK-00996,2024-01-20,Product,Email,EU,4,standard support
+TK-00997,2024-06-28,Account,Social,APAC,3,unacceptable wait time
+TK-00998,2024-01-15,Account,Chat,APAC,1,great communication
+TK-00999,2024-01-18,Product,Chat,NA,3,very helpful agent
+TK-01000,2024-05-03,Product,Social,MEA,4,unacceptable wait time
+TK-01001,2024-06-26,Billing,Chat,NA,3,quick resolution
+TK-01002,2024-03-29,Billing,Chat,MEA,4,very helpful agent
+TK-01003,2024-04-10,Product,Social,EU,2,okay experience
+TK-01004,2024-01-03,Shipping,Social,NA,2,it was fine
+TK-01005,2024-03-09,Shipping,Phone,APAC,5,quick resolution
+TK-01006,2024-03-19,Billing,Social,EU,4,very helpful agent
+TK-01007,2024-07-21,Product,Phone,MEA,3,worst support
+TK-01008,2024-03-26,Billing,Social,NA,2,it was fine
+TK-01009,2024-02-28,Product,Email,APAC,1,nothing special
+TK-01010,2024-08-03,Shipping,Email,APAC,3,standard support
+TK-01011,2024-01-24,Account,Phone,NA,2,very helpful agent
+TK-01012,2024-03-27,Product,Chat,APAC,1,very helpful agent
+TK-01013,2024-03-17,Technical,Chat,APAC,3,nothing special
+TK-01014,2024-07-18,Product,Social,APAC,5,okay experience
+TK-01015,2024-07-11,Technical,Chat,MEA,2,quick resolution
+TK-01016,2024-02-02,Account,Social,APAC,2,never received my order
+TK-01017,2024-02-15,Product,Social,MEA,4,rude agent
+TK-01018,2024-02-10,Account,Phone,MEA,3,quick resolution
+TK-01019,2024-08-19,Product,Social,EU,3,it was fine
+TK-01020,2024-03-28,Technical,Chat,EU,3,nothing special
+TK-01021,2024-05-12,Product,Email,APAC,4,unacceptable wait time
+TK-01022,2024-02-22,Technical,Social,EU,2,very slow refund
+TK-01023,2024-07-12,Shipping,Email,MEA,3,excellent service
+TK-01024,2024-03-20,Technical,Chat,EU,5,worst support
+TK-01025,2024-03-19,Technical,Chat,EU,3,very helpful agent
+TK-01026,2024-02-05,Product,Phone,APAC,3,it was fine
+TK-01027,2024-07-04,Account,Phone,EU,1,great communication
+TK-01028,2024-03-27,Billing,Chat,APAC,3,very helpful agent
+TK-01029,2024-02-26,Shipping,Social,EU,4,resolved fast
+TK-01030,2024-03-25,Product,Phone,NA,4,standard support
+TK-01031,2024-02-15,Technical,Social,EU,4,it was fine
+TK-01032,2024-05-07,Account,Email,APAC,5,billing gone wrong
+TK-01033,2024-02-25,Technical,Phone,NA,3,okay experience
+TK-01034,2024-06-01,Product,Phone,EU,4,nothing special
+TK-01035,2024-08-07,Shipping,Social,APAC,2,it was fine
+TK-01036,2024-06-12,Technical,Chat,APAC,5,it was fine
+TK-01037,2024-06-23,Account,Social,NA,4,standard support
+TK-01038,2024-07-27,Technical,Social,APAC,2,loved the support
+TK-01039,2024-08-01,Product,Chat,APAC,4,great communication
+TK-01040,2024-02-15,Billing,Email,MEA,1,nothing special
+TK-01041,2024-05-29,Billing,Chat,NA,1,very helpful agent
+TK-01042,2024-04-16,Product,Social,APAC,5,best experience
+TK-01043,2024-08-27,Billing,Social,MEA,4,great communication
+TK-01044,2024-03-14,Technical,Chat,APAC,3,okay experience
+TK-01045,2024-08-16,Shipping,Phone,APAC,5,never received my order
+TK-01046,2024-02-07,Account,Social,MEA,4,unacceptable wait time
+TK-01047,2024-03-01,Account,Social,MEA,1,worst support
+TK-01048,2024-08-11,Product,Email,APAC,5,okay experience
+TK-01049,2024-07-16,Shipping,Chat,APAC,3,loved the support
+TK-01050,2024-01-03,Account,Social,NA,3,never received my order
+TK-01051,2024-07-16,Technical,Chat,APAC,5,it was fine
+TK-01052,2024-01-22,Billing,Social,EU,4,unacceptable wait time
+TK-01053,2024-07-28,Billing,Phone,NA,1,loved the support
+TK-01054,2024-07-26,Billing,Chat,EU,4,resolved fast
+TK-01055,2024-01-04,Shipping,Chat,EU,3,it was fine
+TK-01056,2024-01-05,Technical,Phone,MEA,5,best experience
+TK-01057,2024-08-27,Shipping,Phone,MEA,2,great communication
+TK-01058,2024-07-27,Technical,Phone,APAC,1,very slow refund
+TK-01059,2024-05-19,Shipping,Social,MEA,2,nothing special
+TK-01060,2024-01-27,Account,Social,MEA,2,terrible experience
+TK-01061,2024-08-04,Billing,Email,MEA,1,okay experience
+TK-01062,2024-07-18,Shipping,Phone,APAC,3,standard support
+TK-01063,2024-05-22,Product,Social,NA,1,loved the support
+TK-01064,2024-06-18,Account,Social,NA,2,great communication
+TK-01065,2024-04-22,Account,Social,APAC,3,quick resolution
+TK-01066,2024-04-09,Account,Email,APAC,1,very helpful agent
+TK-01067,2024-04-13,Shipping,Email,NA,3,okay experience
+TK-01068,2024-06-25,Billing,Social,EU,2,best experience
+TK-01069,2024-03-01,Technical,Phone,MEA,2,never received my order
+TK-01070,2024-05-10,Shipping,Phone,MEA,5,resolved fast
+TK-01071,2024-01-23,Billing,Phone,APAC,2,resolved fast
+TK-01072,2024-03-22,Shipping,Social,MEA,3,okay experience
+TK-01073,2024-01-16,Account,Social,APAC,2,excellent service
+TK-01074,2024-06-20,Technical,Chat,EU,1,worst support
+TK-01075,2024-03-07,Technical,Social,APAC,3,it was fine
+TK-01076,2024-08-15,Billing,Social,EU,4,nothing special
+TK-01077,2024-07-19,Product,Phone,APAC,4,standard support
+TK-01078,2024-02-12,Shipping,Chat,APAC,3,loved the support
+TK-01079,2024-05-30,Shipping,Phone,APAC,4,loved the support
+TK-01080,2024-03-03,Billing,Phone,MEA,1,worst support
+TK-01081,2024-03-25,Technical,Email,MEA,4,billing gone wrong
+TK-01082,2024-06-20,Account,Email,APAC,1,unacceptable wait time
+TK-01083,2024-06-10,Technical,Social,MEA,1,standard support
+TK-01084,2024-03-24,Billing,Phone,NA,1,nothing special
+TK-01085,2024-06-17,Billing,Phone,MEA,4,great communication
+TK-01086,2024-03-17,Shipping,Phone,MEA,4,nothing special
+TK-01087,2024-04-20,Shipping,Email,MEA,2,rude agent
+TK-01088,2024-08-12,Shipping,Social,MEA,3,very helpful agent
+TK-01089,2024-08-06,Shipping,Chat,MEA,2,nothing special
+TK-01090,2024-05-31,Product,Social,NA,3,very helpful agent
+TK-01091,2024-06-06,Shipping,Chat,NA,3,rude agent
+TK-01092,2024-04-17,Technical,Chat,EU,5,excellent service
+TK-01093,2024-02-15,Shipping,Chat,MEA,5,it was fine
+TK-01094,2024-06-04,Technical,Email,MEA,4,it was fine
+TK-01095,2024-03-06,Product,Email,EU,4,okay experience
+TK-01096,2024-05-06,Account,Phone,APAC,3,app keeps crashing
+TK-01097,2024-07-13,Account,Social,NA,2,great communication
+TK-01098,2024-04-03,Billing,Phone,EU,1,nothing special
+TK-01099,2024-02-28,Product,Social,EU,3,worst support
+TK-01100,2024-04-19,Account,Social,EU,2,standard support
+TK-01101,2024-03-09,Product,Chat,NA,2,billing gone wrong
+TK-01102,2024-02-28,Billing,Social,MEA,5,quick resolution
+TK-01103,2024-03-22,Shipping,Social,MEA,4,best experience
+TK-01104,2024-05-30,Shipping,Social,MEA,2,excellent service
+TK-01105,2024-02-16,Shipping,Chat,APAC,5,standard support
+TK-01106,2024-08-04,Shipping,Email,EU,4,it was fine
+TK-01107,2024-02-07,Shipping,Email,MEA,4,best experience
+TK-01108,2024-04-24,Product,Phone,EU,4,nothing special
+TK-01109,2024-06-18,Product,Social,NA,5,very helpful agent
+TK-01110,2024-08-07,Technical,Phone,MEA,1,never received my order
+TK-01111,2024-03-03,Shipping,Social,EU,2,loved the support
+TK-01112,2024-03-24,Technical,Phone,MEA,4,never received my order
+TK-01113,2024-03-05,Billing,Email,APAC,4,nothing special
+TK-01114,2024-01-23,Account,Social,APAC,3,unacceptable wait time
+TK-01115,2024-02-27,Account,Email,NA,5,resolved fast
+TK-01116,2024-01-10,Shipping,Social,APAC,2,great communication
+TK-01117,2024-03-27,Product,Phone,NA,3,very helpful agent
+TK-01118,2024-02-04,Shipping,Phone,APAC,4,app keeps crashing
+TK-01119,2024-07-02,Shipping,Phone,NA,4,rude agent
+TK-01120,2024-06-23,Technical,Email,EU,2,worst support
+TK-01121,2024-04-13,Shipping,Phone,MEA,3,excellent service
+TK-01122,2024-01-23,Shipping,Chat,NA,2,app keeps crashing
+TK-01123,2024-05-03,Technical,Social,EU,5,it was fine
+TK-01124,2024-01-02,Billing,Chat,NA,3,it was fine
+TK-01125,2024-04-06,Shipping,Email,APAC,3,app keeps crashing
+TK-01126,2024-03-01,Account,Social,NA,2,excellent service
+TK-01127,2024-04-22,Technical,Phone,EU,1,okay experience
+TK-01128,2024-03-13,Product,Email,NA,3,it was fine
+TK-01129,2024-07-16,Billing,Social,APAC,3,okay experience
+TK-01130,2024-02-01,Shipping,Social,MEA,2,loved the support
+TK-01131,2024-06-16,Product,Chat,EU,1,it was fine
+TK-01132,2024-03-20,Technical,Social,APAC,5,loved the support
+TK-01133,2024-08-22,Product,Social,APAC,1,excellent service
+TK-01134,2024-07-01,Account,Phone,NA,4,terrible experience
+TK-01135,2024-01-17,Account,Phone,NA,4,very slow refund
+TK-01136,2024-08-08,Product,Email,NA,2,nothing special
+TK-01137,2024-03-13,Account,Chat,APAC,1,unacceptable wait time
+TK-01138,2024-08-09,Technical,Phone,APAC,4,loved the support
+TK-01139,2024-01-23,Billing,Phone,APAC,2,very slow refund
+TK-01140,2024-07-24,Technical,Social,EU,5,standard support
+TK-01141,2024-08-19,Billing,Phone,MEA,3,excellent service
+TK-01142,2024-05-09,Shipping,Email,NA,3,best experience
+TK-01143,2024-05-05,Account,Email,MEA,3,it was fine
+TK-01144,2024-06-05,Product,Chat,NA,3,very helpful agent
+TK-01145,2024-04-25,Billing,Phone,NA,3,very helpful agent
+TK-01146,2024-02-27,Technical,Email,MEA,1,quick resolution
+TK-01147,2024-01-22,Billing,Social,MEA,4,loved the support
+TK-01148,2024-02-02,Shipping,Social,APAC,3,resolved fast
+TK-01149,2024-01-18,Product,Chat,MEA,3,okay experience
+TK-01150,2024-07-28,Product,Chat,EU,1,excellent service
+TK-01151,2024-04-30,Billing,Chat,APAC,2,standard support
+TK-01152,2024-01-17,Technical,Chat,MEA,2,nothing special
+TK-01153,2024-08-26,Account,Phone,MEA,3,nothing special
+TK-01154,2024-04-11,Billing,Chat,NA,1,nothing special
+TK-01155,2024-04-07,Account,Email,MEA,2,standard support
+TK-01156,2024-03-14,Shipping,Social,MEA,4,rude agent
+TK-01157,2024-03-12,Shipping,Social,MEA,2,app keeps crashing
+TK-01158,2024-05-04,Billing,Social,APAC,2,rude agent
+TK-01159,2024-02-21,Shipping,Email,MEA,3,standard support
+TK-01160,2024-07-05,Shipping,Phone,EU,2,standard support
+TK-01161,2024-06-17,Technical,Phone,MEA,3,standard support
+TK-01162,2024-08-08,Shipping,Social,EU,3,excellent service
+TK-01163,2024-08-05,Product,Email,MEA,4,nothing special
+TK-01164,2024-07-12,Technical,Chat,EU,2,app keeps crashing
+TK-01165,2024-08-15,Shipping,Phone,EU,5,rude agent
+TK-01166,2024-04-06,Product,Social,EU,3,standard support
+TK-01167,2024-02-26,Account,Social,MEA,4,loved the support
+TK-01168,2024-06-12,Product,Email,APAC,5,it was fine
+TK-01169,2024-08-19,Shipping,Chat,APAC,4,standard support
+TK-01170,2024-06-20,Account,Chat,NA,5,standard support
+TK-01171,2024-04-24,Account,Chat,MEA,2,worst support
+TK-01172,2024-03-14,Shipping,Social,EU,5,standard support
+TK-01173,2024-05-18,Technical,Chat,NA,4,standard support
+TK-01174,2024-06-25,Shipping,Phone,NA,2,standard support
+TK-01175,2024-06-23,Shipping,Social,NA,2,quick resolution
+TK-01176,2024-03-02,Account,Chat,EU,5,standard support
+TK-01177,2024-06-24,Technical,Email,NA,2,okay experience
+TK-01178,2024-05-22,Account,Email,NA,5,best experience
+TK-01179,2024-03-02,Technical,Chat,NA,5,very helpful agent
+TK-01180,2024-03-18,Shipping,Social,APAC,1,billing gone wrong
+TK-01181,2024-06-01,Account,Chat,NA,3,great communication
+TK-01182,2024-01-19,Billing,Phone,APAC,3,very slow refund
+TK-01183,2024-04-04,Shipping,Email,NA,1,great communication
+TK-01184,2024-06-05,Product,Email,NA,5,okay experience
+TK-01185,2024-07-08,Shipping,Email,EU,2,it was fine
+TK-01186,2024-07-12,Technical,Email,APAC,4,nothing special
+TK-01187,2024-06-12,Billing,Chat,NA,3,billing gone wrong
+TK-01188,2024-04-20,Technical,Chat,NA,4,resolved fast
+TK-01189,2024-02-23,Billing,Phone,NA,2,nothing special
+TK-01190,2024-02-26,Account,Email,MEA,4,billing gone wrong
+TK-01191,2024-07-23,Shipping,Chat,APAC,2,okay experience
+TK-01192,2024-03-02,Billing,Chat,MEA,4,nothing special
+TK-01193,2024-05-27,Shipping,Email,EU,3,billing gone wrong
+TK-01194,2024-07-12,Product,Phone,EU,2,rude agent
+TK-01195,2024-07-01,Account,Phone,EU,4,resolved fast
+TK-01196,2024-07-07,Billing,Social,MEA,4,nothing special
+TK-01197,2024-02-27,Account,Email,APAC,3,standard support
+TK-01198,2024-02-14,Account,Social,MEA,2,best experience
+TK-01199,2024-05-08,Billing,Phone,APAC,3,nothing special
+TK-01200,2024-03-03,Billing,Phone,MEA,2,resolved fast
+TK-01201,2024-05-18,Technical,Email,EU,1,great communication
+TK-01202,2024-03-28,Shipping,Social,EU,2,nothing special
+TK-01203,2024-07-17,Shipping,Phone,NA,3,great communication
+TK-01204,2024-07-26,Account,Chat,MEA,2,app keeps crashing
+TK-01205,2024-04-19,Technical,Social,MEA,2,nothing special
+TK-01206,2024-02-23,Account,Phone,EU,3,it was fine
+TK-01207,2024-04-06,Billing,Social,APAC,3,very helpful agent
+TK-01208,2024-06-02,Product,Phone,APAC,2,nothing special
+TK-01209,2024-03-05,Account,Social,APAC,3,standard support
+TK-01210,2024-06-10,Shipping,Chat,EU,3,okay experience
+TK-01211,2024-03-03,Technical,Phone,APAC,1,okay experience
+TK-01212,2024-03-21,Billing,Email,APAC,4,okay experience
+TK-01213,2024-05-18,Account,Social,APAC,3,best experience
+TK-01214,2024-07-03,Technical,Phone,EU,4,loved the support
+TK-01215,2024-04-25,Account,Chat,APAC,5,it was fine
+TK-01216,2024-05-11,Account,Social,NA,5,loved the support
+TK-01217,2024-03-11,Billing,Social,EU,3,okay experience
+TK-01218,2024-04-07,Account,Social,EU,1,okay experience
+TK-01219,2024-04-16,Shipping,Phone,APAC,2,okay experience
+TK-01220,2024-01-10,Technical,Chat,APAC,4,great communication
+TK-01221,2024-07-15,Account,Phone,EU,5,rude agent
+TK-01222,2024-01-24,Product,Email,APAC,3,great communication
+TK-01223,2024-06-02,Shipping,Phone,EU,3,terrible experience
+TK-01224,2024-04-04,Product,Email,NA,3,standard support
+TK-01225,2024-08-24,Product,Chat,MEA,4,best experience
+TK-01226,2024-05-22,Billing,Social,APAC,5,it was fine
+TK-01227,2024-06-01,Product,Chat,EU,3,never received my order
+TK-01228,2024-02-10,Account,Email,EU,3,standard support
+TK-01229,2024-03-15,Technical,Email,EU,5,it was fine
+TK-01230,2024-02-03,Product,Chat,MEA,2,okay experience
+TK-01231,2024-05-12,Shipping,Social,MEA,3,quick resolution
+TK-01232,2024-05-24,Product,Phone,MEA,4,loved the support
+TK-01233,2024-03-30,Shipping,Social,APAC,3,resolved fast
+TK-01234,2024-07-21,Account,Social,EU,2,okay experience
+TK-01235,2024-06-10,Shipping,Email,APAC,2,excellent service
+TK-01236,2024-07-06,Shipping,Phone,NA,4,standard support
+TK-01237,2024-08-01,Billing,Email,APAC,2,billing gone wrong
+TK-01238,2024-01-08,Billing,Social,MEA,2,very slow refund
+TK-01239,2024-06-07,Shipping,Phone,MEA,2,excellent service
+TK-01240,2024-01-17,Product,Social,NA,2,standard support
+TK-01241,2024-01-22,Technical,Chat,APAC,2,it was fine
+TK-01242,2024-04-16,Technical,Chat,NA,4,unacceptable wait time
+TK-01243,2024-01-13,Product,Email,APAC,4,never received my order
+TK-01244,2024-03-17,Shipping,Phone,NA,3,nothing special
+TK-01245,2024-06-29,Product,Chat,NA,4,loved the support
+TK-01246,2024-05-06,Account,Email,MEA,1,quick resolution
+TK-01247,2024-05-20,Product,Email,MEA,4,it was fine
+TK-01248,2024-08-18,Billing,Social,MEA,5,standard support
+TK-01249,2024-04-05,Account,Phone,NA,4,quick resolution
+TK-01250,2024-08-09,Account,Chat,EU,1,loved the support
+TK-01251,2024-02-29,Product,Email,NA,5,unacceptable wait time
+TK-01252,2024-05-20,Technical,Social,APAC,2,never received my order
+TK-01253,2024-03-23,Billing,Phone,APAC,2,billing gone wrong
+TK-01254,2024-05-22,Billing,Chat,APAC,4,okay experience
+TK-01255,2024-02-13,Shipping,Social,MEA,4,standard support
+TK-01256,2024-02-28,Billing,Phone,NA,4,it was fine
+TK-01257,2024-03-04,Technical,Email,MEA,2,quick resolution
+TK-01258,2024-06-28,Shipping,Social,APAC,3,okay experience
+TK-01259,2024-01-24,Billing,Social,NA,2,nothing special
+TK-01260,2024-08-23,Account,Social,APAC,3,okay experience
+TK-01261,2024-08-25,Shipping,Phone,APAC,4,it was fine
+TK-01262,2024-03-09,Shipping,Social,NA,4,loved the support
+TK-01263,2024-01-01,Product,Email,EU,1,very helpful agent
+TK-01264,2024-08-19,Billing,Chat,NA,1,it was fine
+TK-01265,2024-06-27,Technical,Email,MEA,4,okay experience
+TK-01266,2024-02-26,Product,Chat,MEA,2,best experience
+TK-01267,2024-07-22,Account,Phone,EU,3,quick resolution
+TK-01268,2024-05-25,Account,Social,NA,3,very slow refund
+TK-01269,2024-03-19,Billing,Phone,EU,3,okay experience
+TK-01270,2024-02-20,Billing,Chat,MEA,5,quick resolution
+TK-01271,2024-06-30,Technical,Phone,MEA,4,quick resolution
+TK-01272,2024-02-09,Account,Phone,MEA,3,great communication
+TK-01273,2024-03-08,Technical,Chat,APAC,4,okay experience
+TK-01274,2024-01-24,Product,Phone,NA,5,it was fine
+TK-01275,2024-07-14,Shipping,Social,NA,2,app keeps crashing
+TK-01276,2024-02-05,Technical,Phone,MEA,4,okay experience
+TK-01277,2024-03-29,Product,Phone,EU,3,okay experience
+TK-01278,2024-07-11,Technical,Phone,APAC,3,best experience
+TK-01279,2024-05-31,Billing,Chat,APAC,3,billing gone wrong
+TK-01280,2024-04-13,Account,Social,NA,4,okay experience
+TK-01281,2024-06-26,Billing,Social,MEA,4,quick resolution
+TK-01282,2024-03-23,Billing,Chat,EU,1,rude agent
+TK-01283,2024-05-13,Billing,Email,EU,3,okay experience
+TK-01284,2024-04-27,Account,Email,NA,3,excellent service
+TK-01285,2024-01-24,Shipping,Social,MEA,3,nothing special
+TK-01286,2024-01-23,Billing,Email,EU,2,very helpful agent
+TK-01287,2024-05-17,Product,Email,EU,2,okay experience
+TK-01288,2024-07-21,Product,Social,APAC,3,okay experience
+TK-01289,2024-03-06,Billing,Social,EU,4,resolved fast
+TK-01290,2024-03-14,Shipping,Phone,MEA,1,nothing special
+TK-01291,2024-02-06,Account,Email,MEA,2,resolved fast
+TK-01292,2024-06-23,Account,Phone,MEA,2,loved the support
+TK-01293,2024-07-12,Technical,Phone,EU,4,it was fine
+TK-01294,2024-05-02,Account,Email,NA,3,it was fine
+TK-01295,2024-07-16,Account,Phone,EU,1,it was fine
+TK-01296,2024-08-03,Product,Email,MEA,4,okay experience
+TK-01297,2024-02-27,Product,Email,NA,3,okay experience
+TK-01298,2024-02-07,Technical,Chat,EU,1,rude agent
+TK-01299,2024-08-22,Technical,Social,EU,1,nothing special
+TK-01300,2024-06-18,Product,Social,NA,3,it was fine
+TK-01301,2024-07-20,Billing,Email,EU,2,very helpful agent
+TK-01302,2024-07-18,Account,Email,EU,4,resolved fast
+TK-01303,2024-05-24,Account,Chat,MEA,2,very helpful agent
+TK-01304,2024-06-16,Billing,Social,MEA,1,standard support
+TK-01305,2024-07-11,Product,Chat,NA,4,best experience
+TK-01306,2024-08-21,Technical,Email,EU,2,resolved fast
+TK-01307,2024-04-04,Product,Email,APAC,3,standard support
+TK-01308,2024-07-28,Technical,Phone,MEA,2,billing gone wrong
+TK-01309,2024-04-16,Billing,Email,EU,2,very slow refund
+TK-01310,2024-07-05,Account,Phone,MEA,3,quick resolution
+TK-01311,2024-01-29,Billing,Phone,EU,3,resolved fast
+TK-01312,2024-08-11,Billing,Email,NA,1,standard support
+TK-01313,2024-05-31,Billing,Phone,APAC,4,standard support
+TK-01314,2024-06-01,Billing,Phone,EU,1,rude agent
+TK-01315,2024-08-17,Account,Email,NA,5,great communication
+TK-01316,2024-07-30,Product,Social,EU,5,standard support
+TK-01317,2024-07-11,Technical,Social,MEA,2,okay experience
+TK-01318,2024-05-12,Account,Social,MEA,4,nothing special
+TK-01319,2024-04-09,Technical,Chat,EU,2,loved the support
+TK-01320,2024-07-26,Billing,Social,NA,3,nothing special
+TK-01321,2024-01-10,Product,Email,APAC,5,rude agent
+TK-01322,2024-02-20,Technical,Social,APAC,5,resolved fast
+TK-01323,2024-07-09,Technical,Email,APAC,2,unacceptable wait time
+TK-01324,2024-02-08,Technical,Phone,EU,2,loved the support
+TK-01325,2024-01-09,Shipping,Email,APAC,3,best experience
+TK-01326,2024-03-05,Shipping,Phone,APAC,4,resolved fast
+TK-01327,2024-06-27,Account,Email,EU,3,great communication
+TK-01328,2024-06-05,Product,Email,NA,2,okay experience
+TK-01329,2024-08-23,Billing,Chat,NA,3,standard support
+TK-01330,2024-04-21,Billing,Phone,MEA,1,billing gone wrong
+TK-01331,2024-06-08,Technical,Email,EU,4,nothing special
+TK-01332,2024-01-16,Billing,Email,NA,5,unacceptable wait time
+TK-01333,2024-07-29,Product,Email,NA,5,standard support
+TK-01334,2024-02-25,Product,Chat,APAC,2,very slow refund
+TK-01335,2024-04-16,Shipping,Phone,NA,3,never received my order
+TK-01336,2024-06-13,Billing,Email,MEA,4,quick resolution
+TK-01337,2024-07-24,Shipping,Chat,EU,1,rude agent
+TK-01338,2024-03-23,Shipping,Email,MEA,3,terrible experience
+TK-01339,2024-07-19,Billing,Phone,NA,1,terrible experience
+TK-01340,2024-05-16,Shipping,Social,NA,3,worst support
+TK-01341,2024-01-17,Product,Chat,NA,1,rude agent
+TK-01342,2024-07-07,Product,Chat,MEA,2,okay experience
+TK-01343,2024-06-01,Product,Email,EU,2,never received my order
+TK-01344,2024-05-16,Billing,Phone,NA,3,worst support
+TK-01345,2024-07-23,Technical,Social,MEA,3,best experience
+TK-01346,2024-07-05,Technical,Email,EU,5,nothing special
+TK-01347,2024-07-23,Technical,Phone,APAC,3,billing gone wrong
+TK-01348,2024-05-31,Shipping,Phone,NA,4,it was fine
+TK-01349,2024-04-22,Product,Email,EU,3,best experience
+TK-01350,2024-03-27,Product,Email,APAC,5,app keeps crashing
+TK-01351,2024-01-04,Shipping,Social,MEA,3,okay experience
+TK-01352,2024-04-15,Billing,Email,MEA,3,it was fine
+TK-01353,2024-01-19,Product,Email,NA,3,unacceptable wait time
+TK-01354,2024-03-10,Shipping,Email,APAC,2,it was fine
+TK-01355,2024-07-25,Shipping,Social,EU,1,billing gone wrong
+TK-01356,2024-05-14,Billing,Social,MEA,1,terrible experience
+TK-01357,2024-07-12,Technical,Email,NA,3,loved the support
+TK-01358,2024-01-21,Shipping,Email,MEA,4,excellent service
+TK-01359,2024-02-24,Shipping,Chat,MEA,5,standard support
+TK-01360,2024-03-12,Billing,Social,APAC,1,unacceptable wait time
+TK-01361,2024-01-08,Account,Email,EU,4,never received my order
+TK-01362,2024-08-20,Billing,Social,EU,4,it was fine
+TK-01363,2024-05-16,Technical,Chat,NA,3,it was fine
+TK-01364,2024-06-19,Product,Email,EU,2,resolved fast
+TK-01365,2024-04-16,Account,Chat,MEA,5,unacceptable wait time
+TK-01366,2024-05-27,Billing,Chat,APAC,3,okay experience
+TK-01367,2024-01-27,Product,Phone,APAC,2,okay experience
+TK-01368,2024-04-08,Shipping,Social,NA,5,standard support
+TK-01369,2024-02-19,Account,Chat,APAC,5,loved the support
+TK-01370,2024-01-27,Shipping,Email,APAC,2,standard support
+TK-01371,2024-04-05,Product,Social,APAC,4,great communication
+TK-01372,2024-01-14,Billing,Email,NA,1,standard support
+TK-01373,2024-01-01,Shipping,Email,APAC,1,great communication
+TK-01374,2024-02-29,Product,Social,APAC,3,best experience
+TK-01375,2024-02-15,Billing,Chat,EU,4,great communication
+TK-01376,2024-02-22,Shipping,Chat,APAC,1,great communication
+TK-01377,2024-08-15,Account,Phone,MEA,4,loved the support
+TK-01378,2024-02-19,Technical,Phone,MEA,1,standard support
+TK-01379,2024-04-27,Product,Email,NA,1,worst support
+TK-01380,2024-03-29,Billing,Social,MEA,1,app keeps crashing
+TK-01381,2024-02-22,Shipping,Social,EU,2,great communication
+TK-01382,2024-08-11,Product,Chat,APAC,5,terrible experience
+TK-01383,2024-08-20,Account,Social,NA,2,standard support
+TK-01384,2024-05-01,Product,Email,APAC,4,quick resolution
+TK-01385,2024-05-15,Product,Phone,APAC,3,resolved fast
+TK-01386,2024-01-14,Shipping,Social,NA,3,quick resolution
+TK-01387,2024-02-25,Product,Chat,APAC,3,standard support
+TK-01388,2024-02-28,Product,Email,EU,4,very slow refund
+TK-01389,2024-01-25,Shipping,Social,EU,2,very helpful agent
+TK-01390,2024-04-03,Account,Social,EU,4,resolved fast
+TK-01391,2024-07-04,Technical,Social,MEA,1,standard support
+TK-01392,2024-01-29,Account,Email,APAC,1,nothing special
+TK-01393,2024-08-21,Product,Social,APAC,3,worst support
+TK-01394,2024-04-26,Shipping,Social,APAC,3,okay experience
+TK-01395,2024-08-23,Product,Phone,EU,5,standard support
+TK-01396,2024-05-22,Billing,Phone,MEA,1,it was fine
+TK-01397,2024-07-26,Billing,Email,EU,3,resolved fast
+TK-01398,2024-05-27,Product,Chat,APAC,2,standard support
+TK-01399,2024-05-22,Technical,Social,NA,3,nothing special
+TK-01400,2024-01-03,Technical,Chat,NA,1,billing gone wrong
+TK-01401,2024-07-18,Technical,Social,EU,3,okay experience
+TK-01402,2024-07-06,Product,Email,NA,1,excellent service
+TK-01403,2024-04-10,Account,Social,APAC,2,terrible experience
+TK-01404,2024-03-22,Product,Email,EU,3,loved the support
+TK-01405,2024-05-08,Account,Email,MEA,3,best experience
+TK-01406,2024-07-16,Billing,Social,MEA,3,worst support
+TK-01407,2024-05-08,Shipping,Phone,EU,4,worst support
+TK-01408,2024-07-09,Billing,Email,MEA,1,great communication
+TK-01409,2024-01-16,Product,Phone,NA,4,resolved fast
+TK-01410,2024-08-02,Product,Email,NA,2,okay experience
+TK-01411,2024-06-24,Technical,Email,MEA,5,quick resolution
+TK-01412,2024-02-06,Technical,Chat,EU,3,loved the support
+TK-01413,2024-05-05,Technical,Phone,EU,3,nothing special
+TK-01414,2024-05-14,Product,Chat,NA,4,excellent service
+TK-01415,2024-05-30,Account,Phone,NA,3,very helpful agent
+TK-01416,2024-01-23,Billing,Email,MEA,1,great communication
+TK-01417,2024-04-15,Billing,Chat,APAC,2,app keeps crashing
+TK-01418,2024-06-08,Shipping,Social,NA,1,it was fine
+TK-01419,2024-08-06,Shipping,Chat,APAC,4,great communication
+TK-01420,2024-01-25,Technical,Chat,NA,1,loved the support
+TK-01421,2024-08-11,Product,Email,APAC,2,excellent service
+TK-01422,2024-06-18,Billing,Social,NA,4,loved the support
+TK-01423,2024-03-20,Billing,Phone,NA,5,great communication
+TK-01424,2024-08-07,Product,Email,APAC,2,loved the support
+TK-01425,2024-08-25,Shipping,Email,NA,5,quick resolution
+TK-01426,2024-06-26,Shipping,Email,MEA,2,standard support
+TK-01427,2024-01-11,Shipping,Email,NA,2,quick resolution
+TK-01428,2024-01-15,Technical,Chat,APAC,3,quick resolution
+TK-01429,2024-04-02,Product,Email,NA,4,it was fine
+TK-01430,2024-01-07,Account,Social,APAC,3,very slow refund
+TK-01431,2024-07-02,Account,Chat,NA,5,very helpful agent
+TK-01432,2024-02-20,Shipping,Chat,APAC,1,never received my order
+TK-01433,2024-02-02,Product,Chat,EU,5,standard support
+TK-01434,2024-03-18,Shipping,Social,EU,2,billing gone wrong
+TK-01435,2024-01-08,Shipping,Chat,APAC,4,it was fine
+TK-01436,2024-08-22,Account,Chat,APAC,2,quick resolution
+TK-01437,2024-05-31,Billing,Social,EU,4,great communication
+TK-01438,2024-03-18,Billing,Phone,APAC,2,resolved fast
+TK-01439,2024-02-24,Shipping,Social,MEA,2,very slow refund
+TK-01440,2024-04-16,Account,Chat,APAC,2,best experience
+TK-01441,2024-08-10,Billing,Social,MEA,3,great communication
+TK-01442,2024-03-23,Product,Chat,MEA,2,quick resolution
+TK-01443,2024-04-24,Shipping,Phone,MEA,5,nothing special
+TK-01444,2024-07-18,Account,Chat,MEA,2,unacceptable wait time
+TK-01445,2024-04-14,Shipping,Email,APAC,5,it was fine
+TK-01446,2024-08-07,Technical,Email,NA,1,great communication
+TK-01447,2024-01-18,Billing,Chat,APAC,3,loved the support
+TK-01448,2024-01-08,Product,Chat,APAC,3,it was fine
+TK-01449,2024-08-23,Shipping,Social,APAC,2,resolved fast
+TK-01450,2024-03-01,Shipping,Social,NA,3,excellent service
+TK-01451,2024-08-19,Product,Chat,APAC,5,resolved fast
+TK-01452,2024-08-16,Technical,Social,APAC,2,standard support
+TK-01453,2024-08-12,Billing,Social,MEA,3,standard support
+TK-01454,2024-07-23,Technical,Chat,APAC,3,terrible experience
+TK-01455,2024-04-04,Technical,Social,NA,2,loved the support
+TK-01456,2024-02-03,Technical,Chat,EU,2,okay experience
+TK-01457,2024-01-03,Shipping,Chat,NA,2,loved the support
+TK-01458,2024-07-07,Shipping,Social,MEA,3,rude agent
+TK-01459,2024-01-27,Account,Social,EU,4,standard support
+TK-01460,2024-03-03,Shipping,Phone,APAC,2,loved the support
+TK-01461,2024-04-20,Technical,Phone,NA,2,billing gone wrong
+TK-01462,2024-03-31,Technical,Phone,MEA,4,nothing special
+TK-01463,2024-06-13,Technical,Phone,NA,4,okay experience
+TK-01464,2024-07-14,Account,Social,MEA,3,app keeps crashing
+TK-01465,2024-03-15,Shipping,Social,EU,2,very slow refund
+TK-01466,2024-08-24,Billing,Chat,NA,4,standard support
+TK-01467,2024-06-07,Billing,Chat,APAC,3,okay experience
+TK-01468,2024-08-25,Account,Chat,NA,4,billing gone wrong
+TK-01469,2024-07-01,Account,Phone,NA,3,nothing special
+TK-01470,2024-08-18,Account,Chat,APAC,5,standard support
+TK-01471,2024-03-13,Billing,Phone,NA,1,great communication
+TK-01472,2024-06-21,Billing,Social,NA,3,very slow refund
+TK-01473,2024-01-29,Account,Email,MEA,5,terrible experience
+TK-01474,2024-01-19,Product,Phone,EU,3,very helpful agent
+TK-01475,2024-08-14,Technical,Social,MEA,2,okay experience
+TK-01476,2024-05-14,Shipping,Social,EU,2,nothing special
+TK-01477,2024-06-14,Shipping,Email,EU,3,it was fine
+TK-01478,2024-07-25,Technical,Social,APAC,4,it was fine
+TK-01479,2024-05-23,Product,Phone,MEA,3,great communication
+TK-01480,2024-03-03,Account,Social,APAC,5,unacceptable wait time
+TK-01481,2024-08-17,Billing,Chat,MEA,3,never received my order
+TK-01482,2024-01-01,Product,Social,MEA,1,resolved fast
+TK-01483,2024-04-28,Billing,Social,EU,2,resolved fast
+TK-01484,2024-04-02,Account,Chat,NA,3,loved the support
+TK-01485,2024-04-08,Technical,Chat,APAC,3,best experience
+TK-01486,2024-07-27,Shipping,Chat,MEA,4,best experience
+TK-01487,2024-06-22,Product,Phone,NA,3,quick resolution
+TK-01488,2024-06-07,Billing,Chat,MEA,4,okay experience
+TK-01489,2024-01-01,Account,Email,EU,3,nothing special
+TK-01490,2024-02-12,Billing,Social,EU,3,very slow refund
+TK-01491,2024-03-07,Technical,Email,APAC,4,very helpful agent
+TK-01492,2024-07-13,Technical,Social,EU,4,very helpful agent
+TK-01493,2024-02-07,Technical,Social,MEA,4,it was fine
+TK-01494,2024-01-20,Account,Social,NA,3,excellent service
+TK-01495,2024-04-19,Technical,Chat,APAC,3,standard support
+TK-01496,2024-08-02,Shipping,Phone,NA,2,nothing special
+TK-01497,2024-01-01,Technical,Phone,MEA,3,quick resolution
+TK-01498,2024-08-11,Shipping,Social,MEA,2,worst support
+TK-01499,2024-05-25,Billing,Phone,NA,5,it was fine
+TK-01500,2024-07-02,Billing,Email,MEA,2,very helpful agent
